@@ -1,0 +1,47 @@
+{
+  "mapped_listings": 633,
+  "available_location_choices": 15,
+  "listings_with_explicit_osm_address_city": 54,
+  "listings_without_recorded_osm_address_city": 579,
+  "all_rwanda_browse_count_correct": true,
+  "all_rwanda_search_unfiltered": true,
+  "locations_with_listings": 15,
+  "listings_by_location": {
+    "Bwishyura": 1,
+    "Gisenyi": 2,
+    "Kigali": 38,
+    "Kigali - Remera": 2,
+    "Kigali City": 1,
+    "Kimonyi": 1,
+    "Kisaro": 1,
+    "Location not recorded in OSM": 579,
+    "Muhoza": 1,
+    "Musanze": 1,
+    "Ngororero": 1,
+    "Nyagatare": 1,
+    "Remera, Kigali": 1,
+    "Rwamagana": 2,
+    "Shyogwe": 1
+  },
+  "listings_by_category": {
+    "Restaurants & eateries": 355,
+    "Accommodation": 281
+  },
+  "location_assignment_sources": {
+    "Not recorded in OpenStreetMap": 579,
+    "OpenStreetMap addr:city": 54
+  },
+  "accommodation_types": {
+    "": 352,
+    "hotel": 259,
+    "motel": 21,
+    "guest_house": 1
+  },
+  "listings_with_cuisine_tags": 130,
+  "listings_with_phone_tags": 69,
+  "listings_with_recorded_service_tags": 97,
+  "all_records_link_to_openstreetmap": true,
+  "all_mapped_listings_appear_in_location_lists": true,
+  "answer_includes_record_source": true,
+  "unknown_query_returns_no_fabricated_listing": true
+}

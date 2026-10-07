@@ -1,0 +1,634 @@
+﻿id,name,location,amenity,cuisine,phone,website,lat,lon,osm_type,osm_id,osm_url,source_updated_at,tourism,stars,rooms,internet_access,location_source
+node/10000515717,Oeil De Faucon,,restaurant,,,,-1.7297871,29.272491,node,10000515717,https://www.openstreetmap.org/node/10000515717,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10154660817,Arona,,fast_food,,,,-1.946309,30.0608618,node,10154660817,https://www.openstreetmap.org/node/10154660817,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10154663417,K. Cafe,,cafe,,,,-1.9463779,30.0608708,node,10154663417,https://www.openstreetmap.org/node/10154663417,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10155355749,Repub Lounge,,restaurant,,,,-1.9521764,30.081562,node,10155355749,https://www.openstreetmap.org/node/10155355749,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10155361523,Street Food Markt (Carefree zone),,restaurant,,,,-1.9649077,30.0601129,node,10155361523,https://www.openstreetmap.org/node/10155361523,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10162715617,Oroha Sunset Beach,,restaurant,,,,-2.0666483,29.3410221,node,10162715617,https://www.openstreetmap.org/node/10162715617,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10224346417,Hôtel Rusizi Progress,,,,,,-2.4755965,28.9083874,node,10224346417,https://www.openstreetmap.org/node/10224346417,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/10225800717,Come Again - Brochette speciale,,fast_food,,,,-2.47597,28.9096367,node,10225800717,https://www.openstreetmap.org/node/10225800717,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10238038499,Belvedere Hotel,,,,,,-1.7031852,29.2645325,node,10238038499,https://www.openstreetmap.org/node/10238038499,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/10278093509,Chez Les Soeurs,,restaurant,,,,-1.9614005,29.3861522,node,10278093509,https://www.openstreetmap.org/node/10278093509,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10300389209,Stafford & Family Co,,restaurant,african;barbecue;coffee_shop;friture;local;sandwich;tea,,,-2.0221311,29.853931,node,10300389209,https://www.openstreetmap.org/node/10300389209,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10540112609,Ibigabiro Resort,,,,,,-2.3418924,29.0898558,node,10540112609,https://www.openstreetmap.org/node/10540112609,2026-10-03T12:22:23Z,motel,,,,Not recorded in OpenStreetMap
+node/10710007346,Hotel Hilltop & Country  Club,,,,+250788541409,www.kigalihotelhilltop.com,-1.9621578,30.1221878,node,10710007346,https://www.openstreetmap.org/node/10710007346,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/10743068167,Nature Kigali,Kigali,,,,https://naturekigali.com,-1.9438449,30.1028163,node,10743068167,https://www.openstreetmap.org/node/10743068167,2026-10-03T12:22:23Z,hotel,,,,OpenStreetMap addr:city
+node/10753876728,tequila terrace,,cafe,,,,-1.9585021,30.1125762,node,10753876728,https://www.openstreetmap.org/node/10753876728,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/10753876735,Ingoma cafe,,cafe,international,+250 788 416 444,,-1.9581174,30.1115687,node,10753876735,https://www.openstreetmap.org/node/10753876735,2026-10-03T12:22:23Z,,,,yes,Not recorded in OpenStreetMap
+node/10768045740,Sizzling Plates Restaurant,,restaurant,taiwanese,+250789266138,,-1.9266335,30.1003118,node,10768045740,https://www.openstreetmap.org/node/10768045740,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10787081542,Radisson Blu Hotel,,,,,,-1.9542643,30.0931089,node,10787081542,https://www.openstreetmap.org/node/10787081542,2026-10-03T12:22:23Z,hotel,,,yes,Not recorded in OpenStreetMap
+node/10796835727,Karenge Bush Camp,,,,,,-1.4371418,30.5714608,node,10796835727,https://www.openstreetmap.org/node/10796835727,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/10822299057,Hilltop Hotel,,,,,https://hilltophotelkigali.rw/,-1.9617429,30.1213611,node,10822299057,https://www.openstreetmap.org/node/10822299057,2026-10-03T12:22:23Z,hotel,4,,,Not recorded in OpenStreetMap
+node/10857927885,The Hut,,restaurant,indian,,https://thehuthotelrwanda.com/,-1.9577911,30.0936349,node,10857927885,https://www.openstreetmap.org/node/10857927885,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10865400374,Airport Inn Motel,,,,,,-1.9616447,30.1346777,node,10865400374,https://www.openstreetmap.org/node/10865400374,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/10867970494,M.G Cantine,,restaurant,,,,-1.9605559,30.1361224,node,10867970494,https://www.openstreetmap.org/node/10867970494,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10882986155,Kabeza coffee& SPA,,cafe,coffee_shop,,,-1.9644561,30.1189864,node,10882986155,https://www.openstreetmap.org/node/10882986155,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/10887424372,Quiver Bar,,restaurant,,,,-1.5020299,29.645559,node,10887424372,https://www.openstreetmap.org/node/10887424372,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10887424373,Faster place,,restaurant,,,,-1.5022743,29.6449943,node,10887424373,https://www.openstreetmap.org/node/10887424373,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10887424374,Venus Villa,,,,,,-1.504457,29.6445605,node,10887424374,https://www.openstreetmap.org/node/10887424374,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/10887424375,Amahoro Guesthouse,,,,,,-1.5065385,29.6437788,node,10887424375,https://www.openstreetmap.org/node/10887424375,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/10892016108,Urugwiro Canteen kucyamitsingi,,cafe,,,,-1.9625163,30.124963,node,10892016108,https://www.openstreetmap.org/node/10892016108,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10892993912,Cher kazungu,,restaurant,regional,,,-2.1283485,30.0698238,node,10892993912,https://www.openstreetmap.org/node/10892993912,2026-10-03T12:22:23Z,,,,no,Not recorded in OpenStreetMap
+node/10892993913,I GIHOZO BAR,,restaurant,,,,-2.1286076,30.0701205,node,10892993913,https://www.openstreetmap.org/node/10892993913,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10896393173,Iwacu Bar,,restaurant,regional,,,-2.1290352,30.0704663,node,10896393173,https://www.openstreetmap.org/node/10896393173,2026-10-03T12:22:23Z,,,,no,Not recorded in OpenStreetMap
+node/10896454181,Iwacu Bar,,restaurant,regional,,,-2.1290352,30.0704663,node,10896454181,https://www.openstreetmap.org/node/10896454181,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/10896464421,Lavana Coffe,,restaurant,regional,,,-2.0913825,30.0875705,node,10896464421,https://www.openstreetmap.org/node/10896464421,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/10896464422,Skoll Bar,,restaurant,,,,-2.0779826,30.0989682,node,10896464422,https://www.openstreetmap.org/node/10896464422,2026-10-03T12:22:23Z,,,,no,Not recorded in OpenStreetMap
+node/10896464423,Skol Bar,,restaurant,local,,,-2.0761982,30.0989926,node,10896464423,https://www.openstreetmap.org/node/10896464423,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/10896464425,OISiS BAR,,restaurant,chicken;fish;breakfast;coffee_shop,,,-2.0699066,30.090677,node,10896464425,https://www.openstreetmap.org/node/10896464425,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/10896600904,Daily Inn,,restaurant,regional,,,-1.9923375,30.0986733,node,10896600904,https://www.openstreetmap.org/node/10896600904,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/10896608805,SportView,,,,,,-1.9900041,30.1012967,node,10896608805,https://www.openstreetmap.org/node/10896608805,2026-10-03T12:22:23Z,hotel,,,yes,Not recorded in OpenStreetMap
+node/10896608810,Cher King,,fast_food,regional,,,-1.9809408,30.1046255,node,10896608810,https://www.openstreetmap.org/node/10896608810,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/10896608813,GARBON,,fast_food,pizza,,,-1.9787325,30.1049112,node,10896608813,https://www.openstreetmap.org/node/10896608813,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/10896608815,Canvilei,,restaurant,,,,-1.9997423,30.0940901,node,10896608815,https://www.openstreetmap.org/node/10896608815,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/10896608817,Empire,,restaurant,regional,,,-1.9779517,30.1047346,node,10896608817,https://www.openstreetmap.org/node/10896608817,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/10896608819,Millako,,fast_food,pizza,+250 784 146 849,,-1.9777692,30.1046279,node,10896608819,https://www.openstreetmap.org/node/10896608819,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/10896608830,Aen,,cafe,coffee_shop,,,-1.97367,30.1045226,node,10896608830,https://www.openstreetmap.org/node/10896608830,2026-10-03T12:22:23Z,,,,no,Not recorded in OpenStreetMap
+node/10896608832,Topaz a lounge,,restaurant,pizza,,,-1.9733572,30.1041274,node,10896608832,https://www.openstreetmap.org/node/10896608832,2026-10-03T12:22:23Z,,,,no,Not recorded in OpenStreetMap
+node/10896608834,Café La Vafecito,,cafe,coffee_shop,,,-1.9727063,30.1039484,node,10896608834,https://www.openstreetmap.org/node/10896608834,2026-10-03T12:22:23Z,,,,no,Not recorded in OpenStreetMap
+node/10896608835,Nigerian food,,restaurant,international;local,,,-1.9718192,30.1038006,node,10896608835,https://www.openstreetmap.org/node/10896608835,2026-10-03T12:22:23Z,,,,no,Not recorded in OpenStreetMap
+node/10896614219,K-fast food,,fast_food,fish_and_chips,,,-1.9659105,30.1034048,node,10896614219,https://www.openstreetmap.org/node/10896614219,2026-10-03T12:22:23Z,,,,no,Not recorded in OpenStreetMap
+node/10897890372,Fire and Stone Pizza Company,Kigali,restaurant,pizza,+250 790 002 444,https://fireandstonepizzas.com/,-1.933409,30.0795277,node,10897890372,https://www.openstreetmap.org/node/10897890372,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+node/10905583952,Kigali Airport Apartment,,,,,,-1.9621375,30.137185,node,10905583952,https://www.openstreetmap.org/node/10905583952,2026-10-03T12:22:23Z,motel,,,,Not recorded in OpenStreetMap
+node/10915573305,Splendid hotel,,,,,,-2.0785137,29.7558219,node,10915573305,https://www.openstreetmap.org/node/10915573305,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/10921167579,TORIST MOTER,,,,+250 785 021 507,,-1.961853,30.1296633,node,10921167579,https://www.openstreetmap.org/node/10921167579,2026-10-03T12:22:23Z,motel,,,,Not recorded in OpenStreetMap
+node/10923619307,La planète guest house,,,,,,-2.3292242,29.1391751,node,10923619307,https://www.openstreetmap.org/node/10923619307,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/10923626405,Ituze lodge,,,,,,-2.0690394,29.3478062,node,10923626405,https://www.openstreetmap.org/node/10923626405,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/10924082305,Eco-lodges,,,,,,-2.4293478,29.0834219,node,10924082305,https://www.openstreetmap.org/node/10924082305,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/10924395878,Canteen,,fast_food,fish_and_chips,,,-1.9838187,30.1322277,node,10924395878,https://www.openstreetmap.org/node/10924395878,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10937244455,Avisha Coffee Shop,,cafe,coffee_shop,,,-1.9618618,30.1370294,node,10937244455,https://www.openstreetmap.org/node/10937244455,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10937275636,Daily Coffee & Fast Food,,fast_food,,+250 788 814 518,,-1.9613057,30.1365995,node,10937275636,https://www.openstreetmap.org/node/10937275636,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10939017083,Nyungwe Hotel,,,,,,-1.996068,30.1420859,node,10939017083,https://www.openstreetmap.org/node/10939017083,2026-10-03T12:22:23Z,hotel,,,yes,Not recorded in OpenStreetMap
+node/10939017084,Ma Boutique Hotel,,,,,https://www.maboutiquehotel.rw/,-1.9957247,30.1436396,node,10939017084,https://www.openstreetmap.org/node/10939017084,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/10939043212,Cantine,,fast_food,,,,-1.9986238,30.1454942,node,10939043212,https://www.openstreetmap.org/node/10939043212,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10983849806,"Fika Café, nice place",,cafe,,,,-1.9505265,30.0824033,node,10983849806,https://www.openstreetmap.org/node/10983849806,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/10989160243,Resident Hotel,,,,,,-1.9401028,30.0477905,node,10989160243,https://www.openstreetmap.org/node/10989160243,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/10989205425,Restaurant Red cross,,restaurant,,,,-1.929694,30.0755142,node,10989205425,https://www.openstreetmap.org/node/10989205425,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/10989286505,Turambe Shoppe,,cafe,,,,-1.9555924,30.1027453,node,10989286505,https://www.openstreetmap.org/node/10989286505,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11002673505,Hotel Gloria,,,,0788 930 233,https://www.gloriahotelrwanda.com/,-1.9479262,30.0578388,node,11002673505,https://www.openstreetmap.org/node/11002673505,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/11006252105,Macoco,,restaurant,,0788506007,,-1.9647612,30.0603275,node,11006252105,https://www.openstreetmap.org/node/11006252105,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11006252205,Issa Coffee,Kigali,cafe,,,https://issacoffee.rw,-1.9648375,30.0601206,node,11006252205,https://www.openstreetmap.org/node/11006252205,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+node/11027913505,Centre Pastoral Notre De Fatima,,,,,,-1.5018235,29.6376268,node,11027913505,https://www.openstreetmap.org/node/11027913505,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/11028024905,Classic Lodge,,,,+250788352476,https://www.classicresortlodge.com/,-1.5581782,29.6323232,node,11028024905,https://www.openstreetmap.org/node/11028024905,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/11037881139,Wilderness Bisate,,,,,https://www.wildernessdestinations.com,-1.4440986,29.5257863,node,11037881139,https://www.openstreetmap.org/node/11037881139,2026-10-03T12:22:23Z,hotel,5,,yes,Not recorded in OpenStreetMap
+node/11054740705,Young Generation,,restaurant,,,,-1.6920642,29.6344107,node,11054740705,https://www.openstreetmap.org/node/11054740705,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11197448450,M Hotel,,,,,,-1.9498533,30.0728897,node,11197448450,https://www.openstreetmap.org/node/11197448450,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/11227517337,Honey Restaurant,,restaurant,,,,-1.9422401,30.0562867,node,11227517337,https://www.openstreetmap.org/node/11227517337,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11228514437,Honey Restaurant,,restaurant,,,,-1.9422679,30.0563041,node,11228514437,https://www.openstreetmap.org/node/11228514437,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11229084637,Tommy’s Budget Rooms,,,,+250785375188,,-1.9977322,30.052213,node,11229084637,https://www.openstreetmap.org/node/11229084637,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/11231060937,Nyungwe Ecovillage,,,,,,-2.5264773,29.4146223,node,11231060937,https://www.openstreetmap.org/node/11231060937,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/11236690837,Lippia Restaurant,,restaurant,,,,-1.5073751,29.6438505,node,11236690837,https://www.openstreetmap.org/node/11236690837,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11236693938,Nyirantarengwa,,restaurant,,,,-1.5073405,29.6436011,node,11236693938,https://www.openstreetmap.org/node/11236693938,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11240707537,La Paillotte Bar Restaurant Pizzéria,,restaurant,,+250785523561,,-1.4404764,29.5772861,node,11240707537,https://www.openstreetmap.org/node/11240707537,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11247405737,Chinese Restaurant,,restaurant,,,,-2.6009972,29.7419226,node,11247405737,https://www.openstreetmap.org/node/11247405737,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11250960837,Karisma Coffee & Restaurant,,restaurant,,,,-2.4804526,28.9125415,node,11250960837,https://www.openstreetmap.org/node/11250960837,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11251390037,Gloria Hotel,,,,+250786103538,,-2.4852326,28.9147618,node,11251390037,https://www.openstreetmap.org/node/11251390037,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/11251390137,+243 Chez Tresor Bar & Resto,,restaurant,,,,-2.4854059,28.914296,node,11251390137,https://www.openstreetmap.org/node/11251390137,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11327897338,Quality Inn Nyanza,,,,+250 (790) 927763,,-2.349929,29.7581035,node,11327897338,https://www.openstreetmap.org/node/11327897338,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/11327904765,Nena House,,,,,,-2.4678096,29.7835128,node,11327904765,https://www.openstreetmap.org/node/11327904765,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/11365749870,Craft Café + Kigali pottery where u can buy ceramics,,cafe,,,,-1.9323041,30.0722827,node,11365749870,https://www.openstreetmap.org/node/11365749870,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11379953269,Ishimwe restaurant,,restaurant,,,,-1.9498466,30.1251684,node,11379953269,https://www.openstreetmap.org/node/11379953269,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11381676769,Agaciro Restaurant,,restaurant,,,,-2.373821,30.1353602,node,11381676769,https://www.openstreetmap.org/node/11381676769,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11394056669,Coffee and restaurant,,cafe,,,,-2.2872708,29.3024434,node,11394056669,https://www.openstreetmap.org/node/11394056669,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11396041869,Kivu Coffee Cup,,cafe,,,,-2.0710885,29.3525975,node,11396041869,https://www.openstreetmap.org/node/11396041869,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11396041969,Chacha café,,cafe,,,,-2.0687891,29.3494422,node,11396041969,https://www.openstreetmap.org/node/11396041969,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11396263969,Jackson’s guesthouse,,,,,,-2.2556668,29.3451259,node,11396263969,https://www.openstreetmap.org/node/11396263969,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/11396273469,Rebero Kivu Resort,,,,,,-2.0596906,29.3478915,node,11396273469,https://www.openstreetmap.org/node/11396273469,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/11407186369,Ibiscus coffee shop,,cafe,,,,-1.6086914,29.5088539,node,11407186369,https://www.openstreetmap.org/node/11407186369,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11422774069,Rutete Eco Lodge,,,,,,-1.9701753,30.6107743,node,11422774069,https://www.openstreetmap.org/node/11422774069,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/11426715969,Shammah motel,,,,,,-1.9944532,30.1921479,node,11426715969,https://www.openstreetmap.org/node/11426715969,2026-10-03T12:22:23Z,motel,,,,Not recorded in OpenStreetMap
+node/11472804920,Tugende Bike Cafe,,restaurant,,,,-1.9562576,30.0959369,node,11472804920,https://www.openstreetmap.org/node/11472804920,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11483349163,Java House,,cafe,coffee_shop,,,-1.9578314,30.1108172,node,11483349163,https://www.openstreetmap.org/node/11483349163,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11514724825,Java House,,cafe,coffee_shop,,,-1.9529413,30.0927142,node,11514724825,https://www.openstreetmap.org/node/11514724825,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11542300570,Palast Rock Hotel,,,,,,-2.1496217,30.090384,node,11542300570,https://www.openstreetmap.org/node/11542300570,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/11560274269,Bamboo Inn,,,,,,-1.5049189,29.6425729,node,11560274269,https://www.openstreetmap.org/node/11560274269,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/11576966140,Clement Motel,,,,,,-1.8955298,29.3428282,node,11576966140,https://www.openstreetmap.org/node/11576966140,2026-10-03T12:22:23Z,motel,,,,Not recorded in OpenStreetMap
+node/11585267873,Kivu noir Café,,cafe,,,http://www.kivunoir.rw/,-1.9510666,30.0600184,node,11585267873,https://www.openstreetmap.org/node/11585267873,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11650717970,Lavish Coffee,,cafe,coffee_shop,,,-1.9420674,30.1233105,node,11650717970,https://www.openstreetmap.org/node/11650717970,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11650890830,The Fork Kibagabaga,,restaurant,,,,-1.9317793,30.1143744,node,11650890830,https://www.openstreetmap.org/node/11650890830,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11651013577,Sud Kigali,,restaurant,,,,-1.9520593,30.0819484,node,11651013577,https://www.openstreetmap.org/node/11651013577,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11651402113,Hôtel Al-Tawakal,,,,,,-1.0554139,30.4568209,node,11651402113,https://www.openstreetmap.org/node/11651402113,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/11688063795,Barista for Better,,cafe,coffee_shop,,,-1.9691088,30.0574338,node,11688063795,https://www.openstreetmap.org/node/11688063795,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11722166407,Risiga Highland Resort,,,,,,-1.8079684,29.9334123,node,11722166407,https://www.openstreetmap.org/node/11722166407,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/11769008626,Simba Restaurant,,restaurant,coffee_shop;pizza,,,-1.9459462,30.05987,node,11769008626,https://www.openstreetmap.org/node/11769008626,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11831863599,Restaurant Tranquillite,,restaurant,,,,-2.0833478,29.7506945,node,11831863599,https://www.openstreetmap.org/node/11831863599,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11964168364,Murugwiro restaurant,,restaurant,,+250 788 538 981,,-2.0684415,29.3459037,node,11964168364,https://www.openstreetmap.org/node/11964168364,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/11971129769,Apartment 2,,,,,,-1.9925841,30.0744054,node,11971129769,https://www.openstreetmap.org/node/11971129769,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/12099095021,Akagera Transit Lodge,,,,,https://akageratransitlodge.com/,-1.9276243,30.6741678,node,12099095021,https://www.openstreetmap.org/node/12099095021,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/12101883878,Sunflower Homes Villa,,,,,,-1.9285719,30.1157159,node,12101883878,https://www.openstreetmap.org/node/12101883878,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/12101883879,Ibi Villa Retreat,,,,,,-1.9284307,30.1155394,node,12101883879,https://www.openstreetmap.org/node/12101883879,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/12164423848,"Meze fresh Kacyiru,RBA",Kigali,restaurant,burger;sandwich,,,-1.9380681,30.0837515,node,12164423848,https://www.openstreetmap.org/node/12164423848,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+node/12196872602,Makeri Residence,,,,+250 781 097 582,https://makeriresidence.com/,-1.5037223,29.6497837,node,12196872602,https://www.openstreetmap.org/node/12196872602,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/12204738701,Foul and Falafel,,restaurant,arab;lebanese;oriental,+250 791 206 683,,-1.9662102,30.0598382,node,12204738701,https://www.openstreetmap.org/node/12204738701,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/12253598006,Nziza View,,,,,,-1.9216097,30.0718301,node,12253598006,https://www.openstreetmap.org/node/12253598006,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/12307212323,Burger Bros,,restaurant,burger,0795288854,,-1.9589516,30.1129508,node,12307212323,https://www.openstreetmap.org/node/12307212323,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/12358506335,Asaabe Café and Eatery,,cafe,,,,-2.0596554,29.4111347,node,12358506335,https://www.openstreetmap.org/node/12358506335,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/12377105303,Sandy's,,fast_food,african,0780828888,,-1.9385179,30.0776155,node,12377105303,https://www.openstreetmap.org/node/12377105303,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/12383330357,Umucyo Restorent,,restaurant,,,,-2.6122898,29.7390451,node,12383330357,https://www.openstreetmap.org/node/12383330357,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/12383871192,Light House Hotel,,,,,https://www.lighthouserwanda.com/,-2.6200033,29.7422868,node,12383871192,https://www.openstreetmap.org/node/12383871192,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/12525931701,Indian Curries,,restaurant,,,,-1.9453752,30.0599278,node,12525931701,https://www.openstreetmap.org/node/12525931701,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/12863140174,Dereva,,,,,,-1.9495073,30.438703,node,12863140174,https://www.openstreetmap.org/node/12863140174,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/12892623008,Cafeteria,,restaurant,,,,-2.270206,30.2605278,node,12892623008,https://www.openstreetmap.org/node/12892623008,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/13034635101,Kattina's,,cafe,international,,,-1.9565643,30.1065835,node,13034635101,https://www.openstreetmap.org/node/13034635101,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/1305653363,Step Town Motel,,,,,,-1.9411967,30.0652083,node,1305653363,https://www.openstreetmap.org/node/1305653363,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/13075982468,"Zaria Court Kigali, Tapestry Collection by Hilton",Kigali,,,+250 788 156 100,https://www.hilton.com/en/hotels/kglzcup-zaria-court-kigali/,-1.957488,30.1120156,node,13075982468,https://www.openstreetmap.org/node/13075982468,2026-10-03T12:22:23Z,hotel,,80,wlan,OpenStreetMap addr:city
+node/13087240517,Baobab Hotel,,,,,,-1.975437,30.042984,node,13087240517,https://www.openstreetmap.org/node/13087240517,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/13149674625,Palega Beach Inn,,,,+250 786 347 466,https://www.palega-beach-inn.com/,-1.8988468,29.2782114,node,13149674625,https://www.openstreetmap.org/node/13149674625,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/13180150648,Irebero Boutique Hotel,,,,,,-2.587597,29.7509367,node,13180150648,https://www.openstreetmap.org/node/13180150648,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/13238837181,Hotel Maisons-Sifa,,,,,,-2.5882773,29.7545069,node,13238837181,https://www.openstreetmap.org/node/13238837181,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/13261577921,Lujo Motel,,,,,,-2.1929516,30.1145308,node,13261577921,https://www.openstreetmap.org/node/13261577921,2026-10-03T12:22:23Z,motel,,,,Not recorded in OpenStreetMap
+node/13319103101,Virunga Mountain Spirits,,restaurant,international,+250 781 198 951,https://www.virungamountainspirits.com/,-1.4556443,29.608667,node,13319103101,https://www.openstreetmap.org/node/13319103101,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/13333636101,Holy kand resort,,,,,,-1.5140876,29.6371204,node,13333636101,https://www.openstreetmap.org/node/13333636101,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/13339882435,Y,,cafe,,,,-1.9413803,30.0796122,node,13339882435,https://www.openstreetmap.org/node/13339882435,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/13340456302,blessington motel,,,,,,-1.6964313,29.2588476,node,13340456302,https://www.openstreetmap.org/node/13340456302,2026-10-03T12:22:23Z,motel,,,,Not recorded in OpenStreetMap
+node/1334294405,Lalibela,,restaurant,,,,-1.9495265,30.0800812,node,1334294405,https://www.openstreetmap.org/node/1334294405,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/13369149101,Zahabu restaurant,,restaurant,,,,-1.4941187,29.6475872,node,13369149101,https://www.openstreetmap.org/node/13369149101,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/13390977706,Kigali Pan-Afrikan Kitchen,,restaurant,,,,-1.9493205,30.0597934,node,13390977706,https://www.openstreetmap.org/node/13390977706,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/13393165054,La Locanda,,,,,,-1.5002435,29.6287962,node,13393165054,https://www.openstreetmap.org/node/13393165054,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/13398148421,Volcano Guest,,,,,,-1.5002937,29.6147655,node,13398148421,https://www.openstreetmap.org/node/13398148421,2026-10-03T12:22:23Z,motel,,,,Not recorded in OpenStreetMap
+node/13450310495,Kabul Kigali,,restaurant,,,,-1.9655963,30.0600532,node,13450310495,https://www.openstreetmap.org/node/13450310495,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/13526989887,Quiet Haven Hotel,,,,,,-2.3569801,29.749737,node,13526989887,https://www.openstreetmap.org/node/13526989887,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/13587568501,Kalih Villa,,,,,,-1.9602105,30.1050041,node,13587568501,https://www.openstreetmap.org/node/13587568501,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/13641814074,Kenomu Coffee Shop,,cafe,coffee_shop,+250 793 035 603,,-2.2987573,30.038574,node,13641814074,https://www.openstreetmap.org/node/13641814074,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/13664364651,Chinesse Restaurant,,restaurant,chinese,,,-1.9625659,30.1028246,node,13664364651,https://www.openstreetmap.org/node/13664364651,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/13928809146,Habesha Ethiopian restaurant,Kigali,restaurant,ethiopian,+250 782 638 044,,-1.9575703,30.0945912,node,13928809146,https://www.openstreetmap.org/node/13928809146,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+node/13980569217,SÅoko,,restaurant,,,,-1.6552633,29.8666795,node,13980569217,https://www.openstreetmap.org/node/13980569217,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/13999676695,J&P Signature Bar and Restaurant,Kigali,restaurant,,+250790111111,,-1.9220325,30.0939253,node,13999676695,https://www.openstreetmap.org/node/13999676695,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+node/14162865904,One Click Hotel,,,,,,-1.9490505,30.0692283,node,14162865904,https://www.openstreetmap.org/node/14162865904,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/14163023701,Hi Pima,,,,,,-1.956094,30.1034458,node,14163023701,https://www.openstreetmap.org/node/14163023701,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/1447426204,Bourbon Coffee,,cafe,,,,-1.9404434,30.1033451,node,1447426204,https://www.openstreetmap.org/node/1447426204,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/1545946610,St. Paul - Centre National de Pastorale,,,,,,-1.9434288,30.0646023,node,1545946610,https://www.openstreetmap.org/node/1545946610,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/1566931102,RTUC Restaurant,,restaurant,,,,-1.9421606,30.0562622,node,1566931102,https://www.openstreetmap.org/node/1566931102,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/1567028511,Gaçaça Restaurant,,restaurant,regional,,,-2.1420297,30.0885077,node,1567028511,https://www.openstreetmap.org/node/1567028511,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/1709624047,Golf Eden Rock,,,,,,-2.0617198,29.3476612,node,1709624047,https://www.openstreetmap.org/node/1709624047,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/1729356019,Hotel des Pyrénées,,,,,,-1.9053022,30.0429005,node,1729356019,https://www.openstreetmap.org/node/1729356019,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/1731068609,St Vincent,,,,,,-2.5911052,29.748151,node,1731068609,https://www.openstreetmap.org/node/1731068609,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/1833128746,Hotel Barthos,,,,,http://barthoshotellive.blogspot.com/,-2.6137471,29.7388843,node,1833128746,https://www.openstreetmap.org/node/1833128746,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/1839800020,Prima 2000,,,,,,-1.9450025,30.0889784,node,1839800020,https://www.openstreetmap.org/node/1839800020,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/1841477509,Golden Hills Hotel,Kigali,,,,,-1.9523711,30.0604224,node,1841477509,https://www.openstreetmap.org/node/1841477509,2026-10-03T12:22:23Z,hotel,,,,OpenStreetMap addr:city
+node/1841495577,Café Restaurant Olympiade,,restaurant,,,,-1.9569632,30.1150529,node,1841495577,https://www.openstreetmap.org/node/1841495577,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/1841500152,White Horse,,restaurant,,,,-1.9503241,30.059874,node,1841500152,https://www.openstreetmap.org/node/1841500152,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/1841507280,Hotel Chez Lando Restaurant,,restaurant,international,,,-1.959315,30.1087845,node,1841507280,https://www.openstreetmap.org/node/1841507280,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/1841508929,Savana,,restaurant,pizza,,,-1.9471407,30.0928711,node,1841508929,https://www.openstreetmap.org/node/1841508929,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/1841509686,Hotel Chez Lando VIP Restaurant,,restaurant,international,,,-1.9594946,30.1086182,node,1841509686,https://www.openstreetmap.org/node/1841509686,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/1841513651,Magda Cafe,,cafe,coffee_shop,,,-1.9509365,30.0931984,node,1841513651,https://www.openstreetmap.org/node/1841513651,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/1841515313,Land Start Hotel,,,,,,-1.9585287,30.1110243,node,1841515313,https://www.openstreetmap.org/node/1841515313,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/1841515335,Shokola Lite,,cafe,coffee_shop,,,-1.9508422,30.0929962,node,1841515335,https://www.openstreetmap.org/node/1841515335,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/1841519870,Meze Fresh,,fast_food,mexican,,,-1.9534138,30.0951013,node,1841519870,https://www.openstreetmap.org/node/1841519870,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/1841529197,Kigali Diplomat Hotel,,,,,,-1.9529765,30.0966048,node,1841529197,https://www.openstreetmap.org/node/1841529197,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/1841529621,Indian Chef,,restaurant,indian,,,-1.9526575,30.096755,node,1841529621,https://www.openstreetmap.org/node/1841529621,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/1841530820,Serena Hotel,,,,,,-1.9562469,30.0626615,node,1841530820,https://www.openstreetmap.org/node/1841530820,2026-10-03T12:22:23Z,hotel,5,,,Not recorded in OpenStreetMap
+node/1841552629,Select Boutique Hotel,,,,,,-1.9508748,30.0984072,node,1841552629,https://www.openstreetmap.org/node/1841552629,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/1841553593,Select Restaurant,,restaurant,french,,,-1.9508695,30.0982812,node,1841553593,https://www.openstreetmap.org/node/1841553593,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/1882605635,Stella Matutina,,restaurant,,,,-1.9688684,30.1258542,node,1882605635,https://www.openstreetmap.org/node/1882605635,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/1882639170,FANTASTIC RESTAURANT,,restaurant,international,,,-1.9432829,30.0591536,node,1882639170,https://www.openstreetmap.org/node/1882639170,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/1882666723,Bourbon Cafe,,restaurant,coffee_shop,,,-1.9438031,30.0597522,node,1882666723,https://www.openstreetmap.org/node/1882666723,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/1970389985,The Kiosk,,restaurant,,,,-1.7662889,30.3842783,node,1970389985,https://www.openstreetmap.org/node/1970389985,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/2104038854,La Vedette,,,,,,-1.9738758,30.054023,node,2104038854,https://www.openstreetmap.org/node/2104038854,2026-10-03T12:22:23Z,motel,,,,Not recorded in OpenStreetMap
+node/2123507030,Sakae,,restaurant,japanese;sushi;korean,,,-1.946185,30.1061252,node,2123507030,https://www.openstreetmap.org/node/2123507030,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/2141002514,Volcanoes Hotel,,,,+250 252 546700,https://www.gorillashotels.com/,-1.5007507,29.6321173,node,2141002514,https://www.openstreetmap.org/node/2141002514,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/2148723163,Home Inn Hotel,,,,,,-1.5036874,29.6304134,node,2148723163,https://www.openstreetmap.org/node/2148723163,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/2148723164,La Palme Hotel,,,,+250 252 546428,https://www.lapalmehotel.net/,-1.4994939,29.6309398,node,2148723164,https://www.openstreetmap.org/node/2148723164,2026-10-03T12:22:23Z,hotel,,,yes,Not recorded in OpenStreetMap
+node/2148723166,Hotel Muhabura,,restaurant,,+250 788 364774,http://www.muhaburahotel.com/,-1.5001733,29.6327104,node,2148723166,https://www.openstreetmap.org/node/2148723166,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/2168814015,Aromas Coffee,,cafe,coffee_shop,,,-1.9507881,30.1235299,node,2168814015,https://www.openstreetmap.org/node/2168814015,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/2168864144,Caiman,,restaurant,,,,-1.933393,30.1086278,node,2168864144,https://www.openstreetmap.org/node/2168864144,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/2168880742,Hôtel Luxury,,,,,,-1.9359527,30.1322202,node,2168880742,https://www.openstreetmap.org/node/2168880742,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/2168895916,Hôtel Woodland,,,,,,-1.9424722,30.1298225,node,2168895916,https://www.openstreetmap.org/node/2168895916,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/2238083863,Civitas Hotel,,,,,,-1.96044,30.109147,node,2238083863,https://www.openstreetmap.org/node/2238083863,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/2317062328,Ruzizi Tented Lodge,,,,,,-1.90655,30.7170713,node,2317062328,https://www.openstreetmap.org/node/2317062328,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/2327871216,Hotel Credo,,restaurant,,,,-2.6092168,29.7371543,node,2327871216,https://www.openstreetmap.org/node/2327871216,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/2327871217,Café Connexion,,cafe,,,,-2.6066528,29.7385931,node,2327871217,https://www.openstreetmap.org/node/2327871217,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/2327871218,Shekinah,,restaurant,regional,,,-2.6069126,29.7382629,node,2327871218,https://www.openstreetmap.org/node/2327871218,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/2344601579,Touristic Restaurant,Rwamagana,restaurant,,,,-1.9470574,30.4419447,node,2344601579,https://www.openstreetmap.org/node/2344601579,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+node/2353448697,KGL,,restaurant,,,,-1.9296904,30.0657647,node,2353448697,https://www.openstreetmap.org/node/2353448697,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/2364349248,Muhazi Beach Hotel,,,,,,-1.8620217,30.4266433,node,2364349248,https://www.openstreetmap.org/node/2364349248,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/2377315068,Lebanese Resto & Bar,,restaurant,,,,-1.9656945,30.0806733,node,2377315068,https://www.openstreetmap.org/node/2377315068,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/2444210137,California Restarurant,,restaurant,regional,,,-1.8005047,30.502195,node,2444210137,https://www.openstreetmap.org/node/2444210137,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/2444210143,Chez Cishahayo,,food_court,,,,-1.8018323,30.5017114,node,2444210143,https://www.openstreetmap.org/node/2444210143,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/2444210289,Restaurant Icyaylamata,,restaurant,regional,,,-1.8018232,30.5007715,node,2444210289,https://www.openstreetmap.org/node/2444210289,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/2444210330,Zingana Restaurant,,restaurant,regional,,,-1.801992,30.5012917,node,2444210330,https://www.openstreetmap.org/node/2444210330,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/2631253377,Golf Hills Residence,,,,,,-1.9266583,30.094745,node,2631253377,https://www.openstreetmap.org/node/2631253377,2026-10-03T12:22:23Z,hotel,,,yes,Not recorded in OpenStreetMap
+node/2653373175,Cormoran Lodge,,,,,,-2.0520479,29.3433408,node,2653373175,https://www.openstreetmap.org/node/2653373175,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/279244863,Khana Khazana,,restaurant,indian,,,-1.9472923,30.065953,node,279244863,https://www.openstreetmap.org/node/279244863,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/279254229,Republika Lounge,,restaurant,regional,,,-1.9522126,30.0815469,node,279254229,https://www.openstreetmap.org/node/279254229,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/279256993,Aux Délices Éternels,,restaurant,,,,-2.6010578,29.741624,node,279256993,https://www.openstreetmap.org/node/279256993,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/281371294,Mövenpick Kigali,Kigali,,,0796 893 000,https://all.accor.com/hotel/C0M5/index.en.shtml?goto=fiche_hotel&code_hotel=C0M5&merchantid=seo-maps-RW-C0M5&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps,-1.946264,30.0920643,node,281371294,https://www.openstreetmap.org/node/281371294,2026-10-03T12:22:23Z,hotel,,,wlan,OpenStreetMap addr:city
+node/281372790,Hôtel Faucon,,,,,,-2.6012009,29.7421504,node,281372790,https://www.openstreetmap.org/node/281372790,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/281375231,New Cactus,,restaurant,,,,-1.955897,30.0654579,node,281375231,https://www.openstreetmap.org/node/281375231,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/281375309,Stipp Hotel,,,,,,-1.9599921,30.0682894,node,281375309,https://www.openstreetmap.org/node/281375309,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/281375399,Chez Robert,,restaurant,,,,-1.9469864,30.0628391,node,281375399,https://www.openstreetmap.org/node/281375399,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/2900364938,Brioche,,cafe,,,,-1.9253431,30.0964279,node,2900364938,https://www.openstreetmap.org/node/2900364938,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/3134435371,Amafu Restaurant,,restaurant,,,,-2.6024582,29.7413676,node,3134435371,https://www.openstreetmap.org/node/3134435371,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/3134444194,Auberge La Caverne,,,,,,-1.9395927,30.0611152,node,3134444194,https://www.openstreetmap.org/node/3134444194,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/317420802,Restaurant Unique,,restaurant,,,,-2.1432376,30.090922,node,317420802,https://www.openstreetmap.org/node/317420802,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/317543933,Libre Voyage,,restaurant,,,,-2.0705901,29.3527501,node,317543933,https://www.openstreetmap.org/node/317543933,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/317543952,Cyber Cafe,,cafe,,,,-2.0709012,29.3517043,node,317543952,https://www.openstreetmap.org/node/317543952,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/317544049,Centre Bethanie,,,,,,-2.0593498,29.3375948,node,317544049,https://www.openstreetmap.org/node/317544049,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/317544066,Moriah Hill Hotel,,,,,,-2.0595561,29.3316847,node,317544066,https://www.openstreetmap.org/node/317544066,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/317576861,Mon Jardin,,restaurant,,,,-2.6246133,29.7414062,node,317576861,https://www.openstreetmap.org/node/317576861,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/317576938,Futtern bei Papa,,restaurant,,,,-2.6030608,29.7403334,node,317576938,https://www.openstreetmap.org/node/317576938,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/317581789,Stipphotel,,,,,,-1.6974105,29.252128,node,317581789,https://www.openstreetmap.org/node/317581789,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/317581790,Crescendo,,restaurant,,,,-1.6973729,29.2500687,node,317581790,https://www.openstreetmap.org/node/317581790,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/317581796,Lake View Hotel,,,,,,-1.6974355,29.2466058,node,317581796,https://www.openstreetmap.org/node/317581796,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/317581817,La Corniche,,restaurant,,,,-1.695522,29.2515366,node,317581817,https://www.openstreetmap.org/node/317581817,2026-10-03T12:22:23Z,guest_house,,,,Not recorded in OpenStreetMap
+node/317706751,Sky Hotel,,,,,,-1.9528484,30.0574064,node,317706751,https://www.openstreetmap.org/node/317706751,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/3182439086,Gisakura Guesthouse,,,,,,-2.4401035,29.0925168,node,3182439086,https://www.openstreetmap.org/node/3182439086,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/3182512553,Hôtel de Chutes,,,,,,-2.4900043,28.8946259,node,3182512553,https://www.openstreetmap.org/node/3182512553,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/3212675448,La Bella Lodge,,,,,,-1.731541,29.2627459,node,3212675448,https://www.openstreetmap.org/node/3212675448,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/3212701230,Green Garden,,restaurant,regional,,,-1.507827,29.6434597,node,3212701230,https://www.openstreetmap.org/node/3212701230,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/3212735284,Iwawe Hotel,Kigali,,,+250 733 304 142,https://www.iwawehotel.com/,-1.9431048,30.0868109,node,3212735284,https://www.openstreetmap.org/node/3212735284,2026-10-03T12:22:23Z,hotel,3,15,yes,OpenStreetMap addr:city
+node/3212735286,Inzora,,cafe,,,,-1.9498517,30.0912853,node,3212735286,https://www.openstreetmap.org/node/3212735286,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/3256805711,Umbrella Pine Guesthouse,,,,,,-2.13823,30.5586109,node,3256805711,https://www.openstreetmap.org/node/3256805711,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/3256871493,Holiday Hotel,,,,,,-2.0550374,29.3461874,node,3256871493,https://www.openstreetmap.org/node/3256871493,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/3359613463,Virunga Hotel,,,,,,-1.5082221,29.6428217,node,3359613463,https://www.openstreetmap.org/node/3359613463,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/3632458291,Any Cafe,,cafe,,,,-1.9486692,30.0740941,node,3632458291,https://www.openstreetmap.org/node/3632458291,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/3799192300,Five Volcanoes Boutique Hotel,,,,,https://www.fivevolcanoesrwanda.com/,-1.4726955,29.6210199,node,3799192300,https://www.openstreetmap.org/node/3799192300,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/3808790306,Pan China Restaurant and Bar,Kigali,restaurant,chinese,,,-1.9460418,30.1061248,node,3808790306,https://www.openstreetmap.org/node/3808790306,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+node/3810791185,Restaurant Hellenique,,restaurant,greek,,,-1.9502353,30.0781417,node,3810791185,https://www.openstreetmap.org/node/3810791185,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/3828421372,Le Bambou Gorillas Lodge,,,,,,-1.4429472,29.5866918,node,3828421372,https://www.openstreetmap.org/node/3828421372,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/3828421377,Mountain Gorilla Nest,,,,,,-1.442261,29.579225,node,3828421377,https://www.openstreetmap.org/node/3828421377,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/3828421378,La Palloitte Gorilla Place,,,,,,-1.449254,29.589396,node,3828421378,https://www.openstreetmap.org/node/3828421378,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/391474504,Montana Vista Hotel,,,,,,-1.379493,29.7457374,node,391474504,https://www.openstreetmap.org/node/391474504,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/3928322238,Malahide Paradise,,,,,,-1.7337008,29.2733918,node,3928322238,https://www.openstreetmap.org/node/3928322238,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/3928343341,Inzu Lodge,Gisenyi,,,,,-1.7300278,29.2655556,node,3928343341,https://www.openstreetmap.org/node/3928343341,2026-10-03T12:22:23Z,hotel,,,wlan,OpenStreetMap addr:city
+node/3928343342,Palm Garden Resort,,,,,,-1.7310313,29.266969,node,3928343342,https://www.openstreetmap.org/node/3928343342,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/3928351368,Inzozi,,,,,,-1.7310758,29.2649894,node,3928351368,https://www.openstreetmap.org/node/3928351368,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/3928409199,Rwiza Village Guest House,,,,,,-2.0753632,29.3220348,node,3928409199,https://www.openstreetmap.org/node/3928409199,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/3928434583,Rushel Kivu Lodge,,,,,https://rushelkivu.wixsite.com/home,-1.9058512,29.2837629,node,3928434583,https://www.openstreetmap.org/node/3928434583,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/3928434894,Musasa basecamp,,,,,,-1.945828,29.32638,node,3928434894,https://www.openstreetmap.org/node/3928434894,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/3928447745,Golden Monkey Hotel,,,,,,-2.4721022,29.581463,node,3928447745,https://www.openstreetmap.org/node/3928447745,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/4085634789,Volcana Lounge,,restaurant,italian,,,-1.5022986,29.6337408,node,4085634789,https://www.openstreetmap.org/node/4085634789,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4142629790,Cool Garden,,restaurant,african;local,,,-1.9458375,30.0688175,node,4142629790,https://www.openstreetmap.org/node/4142629790,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4151748194,National police college head office,,,,,,-1.5069139,29.6388821,node,4151748194,https://www.openstreetmap.org/node/4151748194,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/4151780724,Africana Bistro,,cafe,bistro,,,-1.5033612,29.6350708,node,4151780724,https://www.openstreetmap.org/node/4151780724,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4151780726,Best View Hotel,,,,,,-1.5004439,29.6294083,node,4151780726,https://www.openstreetmap.org/node/4151780726,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/4156136410,Auberge De Gisenyi,,,,,,-1.6949717,29.2604996,node,4156136410,https://www.openstreetmap.org/node/4156136410,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/4289250189,German Butchery,Kigali,restaurant,german,,https://gbdelivering.com,-1.9520922,30.0578131,node,4289250189,https://www.openstreetmap.org/node/4289250189,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+node/4298589891,Motel Eden Garden,,,,,,-2.6043082,29.7398631,node,4298589891,https://www.openstreetmap.org/node/4298589891,2026-10-03T12:22:23Z,motel,,,,Not recorded in OpenStreetMap
+node/4340931292,Sabyinyo Silverback Lodge,,,,,,-1.4166161,29.5702848,node,4340931292,https://www.openstreetmap.org/node/4340931292,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/4346791062,HOTEL SAINT ANNE,,cafe,,,,-1.5085302,29.6452009,node,4346791062,https://www.openstreetmap.org/node/4346791062,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4346794128,LA PAILLOTTE,,fast_food,italian,,,-1.5077524,29.6433399,node,4346794128,https://www.openstreetmap.org/node/4346794128,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/435782764,Bikini Tam Tam,,restaurant,,,,-1.7064076,29.2621092,node,435782764,https://www.openstreetmap.org/node/435782764,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/435804092,Hôtel Musanto Gisenyi,Gisenyi,,,,,-1.7071778,29.264889,node,435804092,https://www.openstreetmap.org/node/435804092,2026-10-03T12:22:23Z,hotel,,23,wlan,OpenStreetMap addr:city
+node/435897185,Hôtel Beaux Arts,,,,,,-2.6037236,29.7396974,node,435897185,https://www.openstreetmap.org/node/435897185,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/4359221189,Huile de poêle et tomate,,restaurant,,,,-1.9612048,30.0768159,node,4359221189,https://www.openstreetmap.org/node/4359221189,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/435932751,Kinigi Guest House,,,,,,-1.4326891,29.5979775,node,435932751,https://www.openstreetmap.org/node/435932751,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/436044869,Cyber Cafe,,cafe,,,,-2.6029015,29.7417296,node,436044869,https://www.openstreetmap.org/node/436044869,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4396263399,Ruhondo Beach Resort,,,,,,-1.494467,29.7422918,node,4396263399,https://www.openstreetmap.org/node/4396263399,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/4407868893,pili pili,,restaurant,,,,-1.9311962,30.1103374,node,4407868893,https://www.openstreetmap.org/node/4407868893,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4450673594,Dolce Pizzeria,,restaurant,italian_pizza,,,-1.9465596,30.0673169,node,4450673594,https://www.openstreetmap.org/node/4450673594,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4461862290,Saga Bay,,restaurant,african,,,-1.7071289,29.262895,node,4461862290,https://www.openstreetmap.org/node/4461862290,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4468211190,Inzozi Nziza,,cafe,,,,-2.60996,29.7365135,node,4468211190,https://www.openstreetmap.org/node/4468211190,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4472648591,Pizzéria italienne Al Lago Kivu,,restaurant,,,,-1.7056764,29.2636294,node,4472648591,https://www.openstreetmap.org/node/4472648591,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4477095089,Mwamikazi,,restaurant,grill,,,-1.6929222,29.259804,node,4477095089,https://www.openstreetmap.org/node/4477095089,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4508234689,La Fleur cuisine,,restaurant,,,,-1.9603249,30.104518,node,4508234689,https://www.openstreetmap.org/node/4508234689,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4511774367,Lemigo Hotel,Kigali,,,,,-1.955345,30.0976413,node,4511774367,https://www.openstreetmap.org/node/4511774367,2026-10-03T12:22:23Z,hotel,4,,yes,OpenStreetMap addr:city
+node/4518635347,La Palisse Hotels Nyamata,,,,,https://lapalissehotels.co.rw,-2.1391118,30.0745137,node,4518635347,https://www.openstreetmap.org/node/4518635347,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/4521108394,Regency,,restaurant,indian,,,-1.9302713,30.0644162,node,4521108394,https://www.openstreetmap.org/node/4521108394,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4569823541,Brioche Kacyiru,,cafe,international;bread;breakfast,,,-1.9477598,30.0928292,node,4569823541,https://www.openstreetmap.org/node/4569823541,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4571748792,Bamboo Rooftop Restaurant,,restaurant,chinese,,,-1.9436787,30.0587685,node,4571748792,https://www.openstreetmap.org/node/4571748792,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/4575249002,SportView Hotel in Kicukiro,,,,,,-1.9896571,30.1007822,node,4575249002,https://www.openstreetmap.org/node/4575249002,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/4576325192,Elite motel,,,,,,-1.9591408,30.1124122,node,4576325192,https://www.openstreetmap.org/node/4576325192,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/4576393589,Elite Hotel Rwanda,,,,,,-1.9594043,30.1126393,node,4576393589,https://www.openstreetmap.org/node/4576393589,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/4577075191,Agaciro Restaurant,,restaurant,,,,-1.4170848,29.8333998,node,4577075191,https://www.openstreetmap.org/node/4577075191,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4599903561,Domicile Saint François,,,,,,-2.4922657,28.8932266,node,4599903561,https://www.openstreetmap.org/node/4599903561,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/4663113704,AGS Country Club,,,,,,-1.8305322,30.2045565,node,4663113704,https://www.openstreetmap.org/node/4663113704,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/4676544490,Sol e Luna,,restaurant,italian_pizza;italian,,,-1.9588753,30.1050657,node,4676544490,https://www.openstreetmap.org/node/4676544490,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4676560589,Hôtel Beauséjour,,,,,,-1.9581221,30.1046633,node,4676560589,https://www.openstreetmap.org/node/4676560589,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/476033559,high noon,,restaurant,,,,-1.9571198,30.1094576,node,476033559,https://www.openstreetmap.org/node/476033559,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4771297521,Ipaafu,,cafe,,,,-2.6085144,29.7372824,node,4771297521,https://www.openstreetmap.org/node/4771297521,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4914810123,Habibi,,restaurant,chicken;arab;tea;kebab;curry;barbecue,,,-1.9651606,30.0590678,node,4914810123,https://www.openstreetmap.org/node/4914810123,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4929264122,Hope Guest House,,,,0783878872,,-1.9425837,30.0433353,node,4929264122,https://www.openstreetmap.org/node/4929264122,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/4971836523,NSTC,,restaurant,,,,-1.9445164,30.1022366,node,4971836523,https://www.openstreetmap.org/node/4971836523,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/4971840521,NSTC,,,,,,-1.944388,30.1018913,node,4971840521,https://www.openstreetmap.org/node/4971840521,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/5033988283,Casa hotel,,,,,http://www.casahotel.rw/,-2.6052852,29.7407478,node,5033988283,https://www.openstreetmap.org/node/5033988283,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/5075917523,Qiang Brother,,restaurant,chinese,,,-1.9310358,30.0838818,node,5075917523,https://www.openstreetmap.org/node/5075917523,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5252217868,Ubumwe Grande,,,,,https://ubumwegrandehotel.com/,-1.9471199,30.0611554,node,5252217868,https://www.openstreetmap.org/node/5252217868,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/5254016032,Crema Coffee Shop,,cafe,,,,-1.5039991,29.6356464,node,5254016032,https://www.openstreetmap.org/node/5254016032,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5263911704,Bethany Investment Group EPR Hostel,,,,,,-1.9483905,30.0672526,node,5263911704,https://www.openstreetmap.org/node/5263911704,2026-10-03T12:22:23Z,hotel,,,yes,Not recorded in OpenStreetMap
+node/5267810122,Montana,,,,,,-2.4684781,29.5800051,node,5267810122,https://www.openstreetmap.org/node/5267810122,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/5267837521,Forest Garden Hotel,,,,,,-2.4689886,29.5801817,node,5267837521,https://www.openstreetmap.org/node/5267837521,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/5286105321,Preet Fast Food (Indian Vegetarian Restaurant),,restaurant,indian,+250783115997,,-1.9476841,30.0592467,node,5286105321,https://www.openstreetmap.org/node/5286105321,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5287618021,Tamu Tamu,,restaurant,african;arab,+250788300957,,-1.9642409,30.0595405,node,5287618021,https://www.openstreetmap.org/node/5287618021,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5289614621,Café Lenima,,cafe,,,,-2.360179,29.7396163,node,5289614621,https://www.openstreetmap.org/node/5289614621,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5296839923,Migano,,cafe,burger;sandwich;breakfast;grill;tea;coffee_shop;pizza;fish_and_chips,,,-1.5083808,29.6391375,node,5296839923,https://www.openstreetmap.org/node/5296839923,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5303512521,Shadow House,,,,,,-1.7109607,29.2663595,node,5303512521,https://www.openstreetmap.org/node/5303512521,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/5303512522,Migano,,cafe,,,,-1.5085446,29.6392689,node,5303512522,https://www.openstreetmap.org/node/5303512522,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5323519821,Zen Oriental Cuisine,,restaurant,,,,-1.9385624,30.1015387,node,5323519821,https://www.openstreetmap.org/node/5323519821,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5331535560,Faradja Hotel,,,,,,-1.501314,29.6208678,node,5331535560,https://www.openstreetmap.org/node/5331535560,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/5331535572,Snow Hotel,,,,,,-1.5091518,29.6457384,node,5331535572,https://www.openstreetmap.org/node/5331535572,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/5332941422,Kebab House,,fast_food,,,,-1.9515842,30.1032627,node,5332941422,https://www.openstreetmap.org/node/5332941422,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5364248121,Ubumwe Center Kigeme,,,,,,-2.4735432,29.5790515,node,5364248121,https://www.openstreetmap.org/node/5364248121,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/5407324322,Gladden coffee buffet,,restaurant,,,,-1.9382271,30.0778619,node,5407324322,https://www.openstreetmap.org/node/5407324322,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5407334821,Canteen good and cheap,,restaurant,,,,-1.9345273,30.0782476,node,5407334821,https://www.openstreetmap.org/node/5407334821,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5409653322,Casa Keza,,restaurant,,,,-1.9377517,30.0885049,node,5409653322,https://www.openstreetmap.org/node/5409653322,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/5409814322,Acacia book cafe,,cafe,,,,-1.9358144,30.0845724,node,5409814322,https://www.openstreetmap.org/node/5409814322,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/5429607721,Nyungwe Top View Hill Hotel,,,,+250787109335,https://www.nyungwehotel.com/,-2.4318451,29.0898971,node,5429607721,https://www.openstreetmap.org/node/5429607721,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/5447950284,Asia Kitchen,,restaurant,asian,,,-1.9595448,30.1066354,node,5447950284,https://www.openstreetmap.org/node/5447950284,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5469448342,Amizero lodge,,,,,,-2.4886828,28.9190886,node,5469448342,https://www.openstreetmap.org/node/5469448342,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/5470873121,Inside Africa Boutique Hotel,,,,+250722503698,,-1.9498787,30.0706597,node,5470873121,https://www.openstreetmap.org/node/5470873121,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/5472136021,Ituze lodge,,,,,,-2.4243699,29.0734489,node,5472136021,https://www.openstreetmap.org/node/5472136021,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/5477230621,Local fast food,,fast_food,,,,-1.7354136,29.2767974,node,5477230621,https://www.openstreetmap.org/node/5477230621,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5487989544,Umut,,restaurant,turkish,,,-1.9423055,30.0582911,node,5487989544,https://www.openstreetmap.org/node/5487989544,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5487989545,Nyirangarama,,restaurant,rwandan,,,-1.9431283,30.0570123,node,5487989545,https://www.openstreetmap.org/node/5487989545,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5487989546,Rolex,,restaurant,,,,-1.9433952,30.0568929,node,5487989546,https://www.openstreetmap.org/node/5487989546,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5491316399,Cosmos,,restaurant,,,,-1.9587811,30.1114922,node,5491316399,https://www.openstreetmap.org/node/5491316399,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5518114616,Now Now Rolex,Kigali,restaurant,,,https://www.facebook.com/NowNowRolex/,-1.9511757,30.0845451,node,5518114616,https://www.openstreetmap.org/node/5518114616,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+node/5518119390,Teabarra,,restaurant,,,,-1.951284,30.0844468,node,5518119390,https://www.openstreetmap.org/node/5518119390,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5518185403,Question Coffee,Kigali,cafe,,,,-1.9544946,30.1046537,node,5518185403,https://www.openstreetmap.org/node/5518185403,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+node/5518653788,Heaven Restaurant & Boutique Hotel,Kigali,restaurant,,+250788486581,https://www.heavenrwanda.com/,-1.9468329,30.0650833,node,5518653788,https://www.openstreetmap.org/node/5518653788,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+node/5540715717,Nyagatare Diplomat Hotel,Nyagatare,,,,,-1.2912015,30.3273241,node,5540715717,https://www.openstreetmap.org/node/5540715717,2026-10-03T12:22:23Z,hotel,,,wlan,OpenStreetMap addr:city
+node/5628323822,J Lynn's,,cafe,,,,-1.9862772,30.101694,node,5628323822,https://www.openstreetmap.org/node/5628323822,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5651383071,Fat Mama's Kitchen,,restaurant,indian,,,-1.9434745,30.0595301,node,5651383071,https://www.openstreetmap.org/node/5651383071,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5729938821,Musanze;Isange BF Restaurant,Musanze,restaurant,african;breakfast;barbecue;chicken;tea;austrian;cake;coffee_shop,+250788490870,https://isangerestaurant.com/,-1.5070471,29.6426309,node,5729938821,https://www.openstreetmap.org/node/5729938821,2026-10-03T12:22:23Z,,,,wlan,OpenStreetMap addr:city
+node/5732112123,Zamzam,,restaurant,,,,-1.6822066,29.2498573,node,5732112123,https://www.openstreetmap.org/node/5732112123,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5758344946,One&Only Nyungwe House,,,,,https://www.oneandonlyresorts.com/one-and-only-nyungwe-house-rwanda/About,-2.4473184,29.1042638,node,5758344946,https://www.openstreetmap.org/node/5758344946,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/5778707353,The Bistro,,restaurant,international,,,-1.948866,30.0689605,node,5778707353,https://www.openstreetmap.org/node/5778707353,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5778887301,Java House,,cafe,coffee_shop,,,-1.9530624,30.0931429,node,5778887301,https://www.openstreetmap.org/node/5778887301,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5778887302,Delizia Italia,,restaurant,italian;ice_cream,,,-1.9529477,30.0930185,node,5778887302,https://www.openstreetmap.org/node/5778887302,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5778887306,Riders Lounge,,restaurant,international,,,-1.9526831,30.0926995,node,5778887306,https://www.openstreetmap.org/node/5778887306,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5778887307,The Fork,,restaurant,regional;buffet,,,-1.9528775,30.0928765,node,5778887307,https://www.openstreetmap.org/node/5778887307,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5779073099,La Paillotte Cyuza,,,,,https://www.lapaillottegorillaplace.com/cyuza-en,-1.4379137,29.7595452,node,5779073099,https://www.openstreetmap.org/node/5779073099,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/5803342809,Heroes Motel,,,,+250 (0) 788256381 / +250 (0) 788421628,,-2.597871,29.743495,node,5803342809,https://www.openstreetmap.org/node/5803342809,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/5803419407,Colours Club and Spa,,,,,,-1.9433083,30.1247711,node,5803419407,https://www.openstreetmap.org/node/5803419407,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/5803476911,Camellia,,cafe,,,,-1.9450231,30.0612544,node,5803476911,https://www.openstreetmap.org/node/5803476911,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5803818356,Nehemiah's Best Coffee,,cafe,,,,-2.607012,29.7388108,node,5803818356,https://www.openstreetmap.org/node/5803818356,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5808507600,Logement La Petite Isimbi,,,,,,-2.4757572,28.9075638,node,5808507600,https://www.openstreetmap.org/node/5808507600,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/5808988979,Restaurant Vitamino,,restaurant,,,,-2.4785896,28.9098892,node,5808988979,https://www.openstreetmap.org/node/5808988979,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5808988980,Rubavu Motel,,,,,,-2.477887,28.9099616,node,5808988980,https://www.openstreetmap.org/node/5808988980,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/5813030053,Brachetto,,restaurant,,,,-1.940752,30.0954877,node,5813030053,https://www.openstreetmap.org/node/5813030053,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5822789554,Borneo coffeeshop and Restaurant,,restaurant,,,,-1.9341132,30.0617039,node,5822789554,https://www.openstreetmap.org/node/5822789554,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5890121586,Nyungwe Nziza Eco-Lodge,,,,,,-2.5308113,29.4084453,node,5890121586,https://www.openstreetmap.org/node/5890121586,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/5891302685,Belle Vie,,restaurant,,,,-2.1577578,30.54577,node,5891302685,https://www.openstreetmap.org/node/5891302685,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/5894747185,Gisakura Family Hostel,,,,,,-2.4367334,29.0908667,node,5894747185,https://www.openstreetmap.org/node/5894747185,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/5896208938,Rooftop Café,,cafe,,,,-1.9498599,30.0911784,node,5896208938,https://www.openstreetmap.org/node/5896208938,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/5903642388,Planette Motel,,,,,,-1.6945205,29.3085055,node,5903642388,https://www.openstreetmap.org/node/5903642388,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/5903949986,NGH Guesthouse,,,,,,-1.5083778,29.6428248,node,5903949986,https://www.openstreetmap.org/node/5903949986,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/5921906846,Martin Aviator,,,,,,-1.9614416,30.1343141,node,5921906846,https://www.openstreetmap.org/node/5921906846,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/5925995703,Peace and Grace,,,,,,-1.9386407,30.0528338,node,5925995703,https://www.openstreetmap.org/node/5925995703,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6036359887,Rwesero Beach,,restaurant,,,,-1.8028969,30.179931,node,6036359887,https://www.openstreetmap.org/node/6036359887,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6049698381,Hill View Hotel,,,,,,-1.7013388,29.2572798,node,6049698381,https://www.openstreetmap.org/node/6049698381,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6061506585,Ibiwi House,,,,,,-1.9681076,30.1191468,node,6061506585,https://www.openstreetmap.org/node/6061506585,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6063288185,Romantic,,,,,,-2.0709658,29.3526858,node,6063288185,https://www.openstreetmap.org/node/6063288185,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6108892313,Cantine Ikaze,,restaurant,,,,-1.961335,30.1125255,node,6108892313,https://www.openstreetmap.org/node/6108892313,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6108895405,Wailers Lodge,,,,,,-1.9618869,30.1124438,node,6108895405,https://www.openstreetmap.org/node/6108895405,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/6108895503,Wailers Lodge - Restaurant & Bar,,restaurant,,,,-1.9614237,30.1122978,node,6108895503,https://www.openstreetmap.org/node/6108895503,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6209321730,O'Tamarillo,,restaurant,french,,,-1.9564433,30.0666325,node,6209321730,https://www.openstreetmap.org/node/6209321730,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6246724385,Magnificat,,restaurant,,,,-2.0625809,29.3471176,node,6246724385,https://www.openstreetmap.org/node/6246724385,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6260316286,Sky Nevada,,restaurant,,,,-1.6917972,29.2628572,node,6260316286,https://www.openstreetmap.org/node/6260316286,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6261621886,Pad Thai,,restaurant,thai,,,-1.9267068,30.1107211,node,6261621886,https://www.openstreetmap.org/node/6261621886,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6262560485,Khana Khazana Nyarutarama,,restaurant,indian,,,-1.949534,30.1029927,node,6262560485,https://www.openstreetmap.org/node/6262560485,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6263685819,New Life Restaurant,,restaurant,,,,-2.2748543,30.674714,node,6263685819,https://www.openstreetmap.org/node/6263685819,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6263703887,Restaurant Chalom,,restaurant,,,,-2.2749348,30.6745543,node,6263703887,https://www.openstreetmap.org/node/6263703887,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6263820288,Le Colombe Garden,,,,,,-1.9046725,30.5075497,node,6263820288,https://www.openstreetmap.org/node/6263820288,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6263830387,Africa Jacana Restaurant,,restaurant,,,,-1.902923,30.5075358,node,6263830387,https://www.openstreetmap.org/node/6263830387,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6263838697,Mama Doreen,,restaurant,,,,-1.9007854,30.507852,node,6263838697,https://www.openstreetmap.org/node/6263838697,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6263838706,Eastland Hotel,,,,+250 788 313 271,,-1.9018153,30.4981077,node,6263838706,https://www.openstreetmap.org/node/6263838706,2026-10-03T12:22:23Z,hotel,,12,,Not recorded in OpenStreetMap
+node/6263862285,Silent Hill Hotel,,,,,,-1.9009839,30.4931261,node,6263862285,https://www.openstreetmap.org/node/6263862285,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6264042286,Dolce Vita Bar and Restaurant,,restaurant,,,,-1.9814716,30.2107625,node,6264042286,https://www.openstreetmap.org/node/6264042286,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6264042685,Green Square,,restaurant,,,,-1.9846138,30.1932094,node,6264042685,https://www.openstreetmap.org/node/6264042685,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6264042687,Michas Motel,,,,,,-1.9683472,30.1659284,node,6264042687,https://www.openstreetmap.org/node/6264042687,2026-10-03T12:22:23Z,motel,,,,Not recorded in OpenStreetMap
+node/6264043287,Le Paradis,,,,,,-1.9567772,30.1323443,node,6264043287,https://www.openstreetmap.org/node/6264043287,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6264070686,Giramata,,restaurant,,,,-1.959795,30.1202199,node,6264070686,https://www.openstreetmap.org/node/6264070686,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6264138687,The Nest,,,,,,-1.9534437,30.0823989,node,6264138687,https://www.openstreetmap.org/node/6264138687,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6264203786,Kim Hotel,,,,,,-1.9548589,30.0804759,node,6264203786,https://www.openstreetmap.org/node/6264203786,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6264216386,Twistiblendz smoothies,,cafe,,,,-1.9543643,30.0806847,node,6264216386,https://www.openstreetmap.org/node/6264216386,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6264217785,Chapati,,cafe,,,,-1.9543712,30.0805966,node,6264217785,https://www.openstreetmap.org/node/6264217785,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6267349587,Mama Boy,,restaurant,,,,-1.9422041,30.0446537,node,6267349587,https://www.openstreetmap.org/node/6267349587,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6267363162,Cantine Nyabugogo,,cafe,,,,-1.9405785,30.0440193,node,6267363162,https://www.openstreetmap.org/node/6267363162,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6267369589,Iriza,,restaurant,,,,-1.9417721,30.0454194,node,6267369589,https://www.openstreetmap.org/node/6267369589,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6267369590,Amahoro,,restaurant,,,,-1.941479,30.0445964,node,6267369590,https://www.openstreetmap.org/node/6267369590,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6267369694,Farmers,,restaurant,,,,-1.9413093,30.0449786,node,6267369694,https://www.openstreetmap.org/node/6267369694,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6267369697,Special Menu,,restaurant,,,,-1.9416678,30.0455743,node,6267369697,https://www.openstreetmap.org/node/6267369697,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6267371095,Elfer Restaurant,,restaurant,,,,-1.9401677,30.0449574,node,6267371095,https://www.openstreetmap.org/node/6267371095,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6267397708,The Yummy Food,,cafe,,,,-1.9407136,30.0440548,node,6267397708,https://www.openstreetmap.org/node/6267397708,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6267594597,Petit Bruxelles,,restaurant,,,,-1.5086314,29.642537,node,6267594597,https://www.openstreetmap.org/node/6267594597,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6267682482,Volcano Cafe Hotel,,,,,,-1.6112183,29.4525642,node,6267682482,https://www.openstreetmap.org/node/6267682482,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6267686004,La Corniche,,,,,,-1.6116525,29.5084708,node,6267686004,https://www.openstreetmap.org/node/6267686004,2026-10-03T12:22:23Z,motel,,,,Not recorded in OpenStreetMap
+node/6267689593,Paradis,,restaurant,,,,-1.6384556,29.4016237,node,6267689593,https://www.openstreetmap.org/node/6267689593,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6267749990,Ikazu,,restaurant,,,,-1.6501934,29.3741896,node,6267749990,https://www.openstreetmap.org/node/6267749990,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6267805787,One Degree South,,restaurant,,,,-1.7073847,29.2632571,node,6267805787,https://www.openstreetmap.org/node/6267805787,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6273677586,Marantha,,restaurant,,,,-1.5559216,29.5550254,node,6273677586,https://www.openstreetmap.org/node/6273677586,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6273716585,Amharo,,cafe,,,,-1.5110425,29.642121,node,6273716585,https://www.openstreetmap.org/node/6273716585,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6273716986,Shama,,restaurant,,,,-1.5114202,29.6420779,node,6273716986,https://www.openstreetmap.org/node/6273716986,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6273806686,Kimaranzara,,restaurant,,,,-1.6630069,29.887522,node,6273806686,https://www.openstreetmap.org/node/6273806686,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6278792485,King's Hospitality,,,,,,-1.9526785,30.0805076,node,6278792485,https://www.openstreetmap.org/node/6278792485,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6283136685,Nirvana Heights Hotel,,,,,,-1.7313626,29.2639397,node,6283136685,https://www.openstreetmap.org/node/6283136685,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6285337994,cafeteria and bakery,,restaurant,,,,-1.4953699,29.6402719,node,6285337994,https://www.openstreetmap.org/node/6285337994,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6285337995,hotel,,,,,,-1.6113233,29.4525524,node,6285337995,https://www.openstreetmap.org/node/6285337995,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6293758595,Belge Frites,,restaurant,,,,-1.949374,30.0598149,node,6293758595,https://www.openstreetmap.org/node/6293758595,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6304072485,Kingfisher Beach Restaurant,,restaurant,,,,-2.6031829,29.7398703,node,6304072485,https://www.openstreetmap.org/node/6304072485,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6306907985,Twiga Hotel,,,,,,-2.5958672,29.7367321,node,6306907985,https://www.openstreetmap.org/node/6306907985,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/6316476088,Nyanza Heritage Hotel,,,,,,-2.3545421,29.7497927,node,6316476088,https://www.openstreetmap.org/node/6316476088,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6316524985,Boomerang Motel,,,,,,-2.3633753,29.7440548,node,6316524985,https://www.openstreetmap.org/node/6316524985,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6316524987,Dayenu Hotel,,,,,,-2.3536049,29.7494398,node,6316524987,https://www.openstreetmap.org/node/6316524987,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6316539885,New Life Motel,,,,,,-2.3536275,29.7509696,node,6316539885,https://www.openstreetmap.org/node/6316539885,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6385389119,Kingfisher Beach Restaurant,,restaurant,,+250782398856,,-1.8066737,30.1796277,node,6385389119,https://www.openstreetmap.org/node/6385389119,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6385426624,Inka Steakhouse,,restaurant,,+250780302666,,-1.960852,30.0952186,node,6385426624,https://www.openstreetmap.org/node/6385426624,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6417940385,Al Mannu,,cafe,coffee_shop;regional;burger,,,-1.9641487,30.0600311,node,6417940385,https://www.openstreetmap.org/node/6417940385,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/6418491888,HOPE HOUSE,,,,,,-2.6066847,29.73918,node,6418491888,https://www.openstreetmap.org/node/6418491888,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6419683385,Green Page Inn,,,,,,-1.9780422,30.0954308,node,6419683385,https://www.openstreetmap.org/node/6419683385,2026-10-03T12:22:23Z,motel,,,,Not recorded in OpenStreetMap
+node/6423920486,Green Corner,,restaurant,,,,-1.9742532,30.0475291,node,6423920486,https://www.openstreetmap.org/node/6423920486,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6482235785,Bornéo,,restaurant,indonesian,,,-1.9594743,30.0837062,node,6482235785,https://www.openstreetmap.org/node/6482235785,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6482744687,Lavana,,restaurant,,,,-1.9598403,30.0829331,node,6482744687,https://www.openstreetmap.org/node/6482744687,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6592797497,Zenith Restaurant,,restaurant,,,,-1.9522267,30.0818108,node,6592797497,https://www.openstreetmap.org/node/6592797497,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6592797591,Inema,,,,,,-1.950254,30.6846082,node,6592797591,https://www.openstreetmap.org/node/6592797591,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6592798185,Madiba guest house,,,,,,-1.9509077,30.0824912,node,6592798185,https://www.openstreetmap.org/node/6592798185,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6604006285,Cayenne Motel,,,,,,-1.9382855,30.0524651,node,6604006285,https://www.openstreetmap.org/node/6604006285,2026-10-03T12:22:23Z,motel,,,wlan,Not recorded in OpenStreetMap
+node/6622521685,Monmartse Korean Restaurant,,restaurant,korean,,,-1.5030979,29.634348,node,6622521685,https://www.openstreetmap.org/node/6622521685,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6629666285,Inema Cafe,,cafe,,,,-1.9416897,30.0908973,node,6629666285,https://www.openstreetmap.org/node/6629666285,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6629666287,Country Inn Hotel,,,,,,-1.9242665,30.0961808,node,6629666287,https://www.openstreetmap.org/node/6629666287,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6631330185,Lamane Café and Bakery,,restaurant,,,,-1.9755604,30.1082852,node,6631330185,https://www.openstreetmap.org/node/6631330185,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/6649420585,Bistro Restaurant & Wine Garage,,restaurant,,+250 (0) 785 368825,,-1.6995963,29.2557925,node,6649420585,https://www.openstreetmap.org/node/6649420585,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6649420685,White Rock Bistro,,restaurant,,+250783000935,,-1.6976935,29.250328,node,6649420685,https://www.openstreetmap.org/node/6649420685,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6651016388,Lakeside Restaurant & Beach Bar,,restaurant,,+250 (0) 787775405,,-1.7083735,29.2642141,node,6651016388,https://www.openstreetmap.org/node/6651016388,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6653418985,Restaurant Jimmy Samson,,restaurant,african,+250785070444,,-1.9480239,29.3441262,node,6653418985,https://www.openstreetmap.org/node/6653418985,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6754222321,Baso Pâtissier,Kigali,cafe,coffee_shop;sandwich;burger,,http://www.basopatissier.com/,-1.9557698,30.0659408,node,6754222321,https://www.openstreetmap.org/node/6754222321,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+node/6796670185,Sailors Café,,cafe,regional;african,,,-2.070389,29.3526137,node,6796670185,https://www.openstreetmap.org/node/6796670185,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6796678285,Joyce Restaurant,,restaurant,regional;african,,,-2.0703629,29.3524279,node,6796678285,https://www.openstreetmap.org/node/6796678285,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6799268185,Vivo Restaurant,,restaurant,regional;african;local,,,-1.6963393,29.2626196,node,6799268185,https://www.openstreetmap.org/node/6799268185,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6807633939,5 Swiss Hotel,,,,,,-1.9476719,30.0637666,node,6807633939,https://www.openstreetmap.org/node/6807633939,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/6807673097,Lebanon Hotel,Kigali - Remera,,,,,-1.9539086,30.1109688,node,6807673097,https://www.openstreetmap.org/node/6807673097,2026-10-03T12:22:23Z,hotel,,,wlan,OpenStreetMap addr:city
+node/6807785485,Galileo,,,,,,-2.5932488,29.7371308,node,6807785485,https://www.openstreetmap.org/node/6807785485,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/6812623585,Mountain Gorilla View lodge,,,,,,-1.4281823,29.5559891,node,6812623585,https://www.openstreetmap.org/node/6812623585,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/6828627210,Fantastic Restaurant,,restaurant,,,,-1.9424688,30.061417,node,6828627210,https://www.openstreetmap.org/node/6828627210,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/6852850786,Great season hotel,,,,,,-1.9230629,30.0933781,node,6852850786,https://www.openstreetmap.org/node/6852850786,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/7035196333,Peponi Livingspaces,,,,+250786442077,http://peponi.co,-1.9112091,30.0836105,node,7035196333,https://www.openstreetmap.org/node/7035196333,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/7048510665,Peponi Livingspaces,,,,00250788482077,http://peponi.co,-1.9112107,30.0835919,node,7048510665,https://www.openstreetmap.org/node/7048510665,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/706263165,Sun City Hotel,,,,,,-1.9794787,30.0401562,node,706263165,https://www.openstreetmap.org/node/706263165,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/706263179,Bourbon Coffee,,cafe,,,,-1.9455336,30.0615017,node,706263179,https://www.openstreetmap.org/node/706263179,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/710268304,Rainbow Hotel,,,,,,-1.9736966,30.106565,node,710268304,https://www.openstreetmap.org/node/710268304,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/7139512088,Vision Motel,,,,,,-1.9407315,30.0621304,node,7139512088,https://www.openstreetmap.org/node/7139512088,2026-10-03T12:22:23Z,motel,,,,Not recorded in OpenStreetMap
+node/7139516085,Kigali Chapati,,fast_food,,,,-1.9772144,30.0851619,node,7139516085,https://www.openstreetmap.org/node/7139516085,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/7140662085,Rouge by Desir,,,,,,-1.9225666,30.0997867,node,7140662085,https://www.openstreetmap.org/node/7140662085,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/7144770085,Esta Cafe,,restaurant,,,,-1.942748,30.0608083,node,7144770085,https://www.openstreetmap.org/node/7144770085,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/7160197688,Midland Hotel,,,,,,-1.9031214,30.5069736,node,7160197688,https://www.openstreetmap.org/node/7160197688,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/7160197689,Coffe Shop,,cafe,,,,-1.9024854,30.5062532,node,7160197689,https://www.openstreetmap.org/node/7160197689,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/7160197690,Pizza Inn,,restaurant,,,,-1.9017381,30.506667,node,7160197690,https://www.openstreetmap.org/node/7160197690,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/7169831691,Paradise Rwanda Restobar,,restaurant,indian,,,-1.9358988,30.0846998,node,7169831691,https://www.openstreetmap.org/node/7169831691,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/7212418727,Facefood Restaurant,,fast_food,,+250 788 875299;+250 788 305543,,-1.9808262,30.1035186,node,7212418727,https://www.openstreetmap.org/node/7212418727,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/7243827822,Barista for Better,,cafe,,,,-1.9736591,30.0769615,node,7243827822,https://www.openstreetmap.org/node/7243827822,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/7678284754,Urban by CityBlue Kigali,Kigali,,,,https://www.citybluehotels.com/urban-by-cityblue-kigali/,-1.9489466,30.0690638,node,7678284754,https://www.openstreetmap.org/node/7678284754,2026-10-03T12:22:23Z,hotel,,,,OpenStreetMap addr:city
+node/7678312087,2000 Hotel Downtown Kigali,Kigali,,,,,-1.9437853,30.0581957,node,7678312087,https://www.openstreetmap.org/node/7678312087,2026-10-03T12:22:23Z,hotel,,,yes,OpenStreetMap addr:city
+node/7678312088,Camellia,,cafe,regional;burger;coffee_shop;sandwich,,,-1.9472358,30.0596269,node,7678312088,https://www.openstreetmap.org/node/7678312088,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/7681148959,Kraft Café,,cafe,,,,-1.9325187,30.0722829,node,7681148959,https://www.openstreetmap.org/node/7681148959,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/7705067025,360 Degrees Pizza,,restaurant,pizza;italian,,http://360degreespizza.rw/,-1.9528934,30.0929006,node,7705067025,https://www.openstreetmap.org/node/7705067025,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/7829426785,Mocha Café,,cafe,,,,-1.9263555,30.0914356,node,7829426785,https://www.openstreetmap.org/node/7829426785,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/7831575005,Blackstone Lounge kigali,Kigali,restaurant,pizza;burger,+250785037081,,-1.9527306,30.0919645,node,7831575005,https://www.openstreetmap.org/node/7831575005,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+node/8062629485,Isame Restaurant & Café,,fast_food,,,,-1.9730597,30.0550914,node,8062629485,https://www.openstreetmap.org/node/8062629485,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8071989212,Amara n' Ubuki Boutique Hotel,,,,,,-1.9510943,30.0992724,node,8071989212,https://www.openstreetmap.org/node/8071989212,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/8072094982,Tung Chinese Cuisine,,restaurant,,,,-1.9434823,30.099766,node,8072094982,https://www.openstreetmap.org/node/8072094982,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8072098433,Billy's Bistro & Bar,,restaurant,,,,-1.9435308,30.099734,node,8072098433,https://www.openstreetmap.org/node/8072098433,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8072145772,Delhi Darbar Indian Restaurant,,restaurant,,,,-1.9330463,30.0985556,node,8072145772,https://www.openstreetmap.org/node/8072145772,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8074043351,Shokola Café,,cafe,sandwich;smoothie;coffee;tea;brunch,+250788350530,https://www.shokolacafe.com/,-1.9347796,30.0788009,node,8074043351,https://www.openstreetmap.org/node/8074043351,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8094013814,Galaxy Hotel,,,,,,-1.9463095,30.0626541,node,8094013814,https://www.openstreetmap.org/node/8094013814,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/8097867520,Kayonza,,cafe,,,,-1.8941327,30.4712614,node,8097867520,https://www.openstreetmap.org/node/8097867520,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8119228610,Kivu Marina Bay,,,,,,-2.4717242,28.9006278,node,8119228610,https://www.openstreetmap.org/node/8119228610,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/8360433589,Soy,,restaurant,asian,,,-1.9473869,30.0785332,node,8360433589,https://www.openstreetmap.org/node/8360433589,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8416289605,Tally Bakery & Cafe,,cafe,,,,-1.9618783,30.1204608,node,8416289605,https://www.openstreetmap.org/node/8416289605,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8441495849,The Fish Pub,,restaurant,,,,-1.8771895,30.3461283,node,8441495849,https://www.openstreetmap.org/node/8441495849,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8541113808,Meza Malonga,,restaurant,,,https://mezamalonga.com/,-1.9561038,30.1054954,node,8541113808,https://www.openstreetmap.org/node/8541113808,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8581619011,La Charité,,restaurant,,,,-1.9938061,30.1916201,node,8581619011,https://www.openstreetmap.org/node/8581619011,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8700821886,Haute Baso,Kigali,restaurant,,,https://www.hautebaso.com/,-1.9241817,30.0917539,node,8700821886,https://www.openstreetmap.org/node/8700821886,2026-10-03T12:22:23Z,,,,wlan,OpenStreetMap addr:city
+node/8715006329,Hashtag,,restaurant,,,,-1.9375869,30.1014296,node,8715006329,https://www.openstreetmap.org/node/8715006329,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8715006875,La Villa Cafes & Suits,,cafe,,,,-1.9320227,30.0987788,node,8715006875,https://www.openstreetmap.org/node/8715006875,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8715010228,Garr Hotel,,,,,,-1.9360584,30.1001244,node,8715010228,https://www.openstreetmap.org/node/8715010228,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/8715023326,Dae Jang Guem Korean Restaurant,,restaurant,,,,-1.9361382,30.0994032,node,8715023326,https://www.openstreetmap.org/node/8715023326,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8715023327,Quiet Haven Hotel,,,,,,-1.9345114,30.0990412,node,8715023327,https://www.openstreetmap.org/node/8715023327,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/8722547332,Orient Park Hotel,,,,,,-1.9282956,30.0983466,node,8722547332,https://www.openstreetmap.org/node/8722547332,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/8754616617,Peakspot,,,,,,-1.418973,29.5764905,node,8754616617,https://www.openstreetmap.org/node/8754616617,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/8807396135,Kurry Kingdom,,restaurant,indian,+250 787605789,https://www.kurrykingdom.rw/,-1.9456456,30.0891156,node,8807396135,https://www.openstreetmap.org/node/8807396135,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8838293784,Bwok,,cafe,coffee_shop;sandwich;american,,,-1.9467122,30.0796326,node,8838293784,https://www.openstreetmap.org/node/8838293784,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+node/8847828030,Rubia Coffee Roasters,,cafe,,,,-1.9510858,30.0846443,node,8847828030,https://www.openstreetmap.org/node/8847828030,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8856571922,Downtown Bistro,,restaurant,,,,-1.9460536,30.0614763,node,8856571922,https://www.openstreetmap.org/node/8856571922,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8862840708,Coffee Corner,,restaurant,,,,-1.9454256,30.0637697,node,8862840708,https://www.openstreetmap.org/node/8862840708,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8964637611,Sanza Restaurant,,restaurant,,,,-1.9601916,30.0950909,node,8964637611,https://www.openstreetmap.org/node/8964637611,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8964705655,Tucky's,,fast_food,,,,-1.9601407,30.1060855,node,8964705655,https://www.openstreetmap.org/node/8964705655,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/8989462317,KGL,,fast_food,,,,-1.9284397,30.0712478,node,8989462317,https://www.openstreetmap.org/node/8989462317,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/9024499518,fast food Garage,,fast_food,,,,-2.3537001,29.7523689,node,9024499518,https://www.openstreetmap.org/node/9024499518,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/9073405217,The Retreat,Kigali,,,+250782000001,https://heavenrwanda.com/,-1.9473171,30.0650944,node,9073405217,https://www.openstreetmap.org/node/9073405217,2026-10-03T12:22:23Z,hotel,,,wlan,OpenStreetMap addr:city
+node/9073405218,Fusion Restaurant,Kigali,restaurant,,+250782000001,https://heavenrwanda.com/fusion-restaurant.php,-1.9473796,30.0650917,node,9073405218,https://www.openstreetmap.org/node/9073405218,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+node/9074366250,SiZling Plates,,restaurant,,,,-1.9517497,30.1153267,node,9074366250,https://www.openstreetmap.org/node/9074366250,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/9198957921,Café Indabo,Kigali,cafe,,+250 788 724 292,,-1.9606523,30.068589,node,9198957921,https://www.openstreetmap.org/node/9198957921,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+node/9205288997,EBIS Restaurant,,restaurant,,,,-2.5995768,29.7426099,node,9205288997,https://www.openstreetmap.org/node/9205288997,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/9250744647,Mantis EPIC Hotel,,,,,https://www.mantiscollection.com/hotel/family-adventure-holiday-rwanda/,-1.3159491,30.321529,node,9250744647,https://www.openstreetmap.org/node/9250744647,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/9337166588,L’Abidjanaise,,restaurant,ivorian,,,-1.9626643,30.1056769,node,9337166588,https://www.openstreetmap.org/node/9337166588,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/9363997167,Eagle View Lodge,,,,,,-1.9925348,30.0742104,node,9363997167,https://www.openstreetmap.org/node/9363997167,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/9415850258,The Little Hill Boutique Hotel,,,,,,-1.9183015,30.0959869,node,9415850258,https://www.openstreetmap.org/node/9415850258,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/9430099217,Spaghetti bolognrse,,restaurant,,0789773239,,-1.9391594,30.0774406,node,9430099217,https://www.openstreetmap.org/node/9430099217,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/9457826017,Green Garden Restaurant,,restaurant,,,,-1.5095082,29.6418693,node,9457826017,https://www.openstreetmap.org/node/9457826017,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/9468376417,Muhabura mountain lodge,,,,,,-1.6962015,29.2622766,node,9468376417,https://www.openstreetmap.org/node/9468376417,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/9468386317,Muhabura mountain lodge,,,,+250783596101,,-1.6961824,29.2622761,node,9468386317,https://www.openstreetmap.org/node/9468386317,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/9514019017,Tamara,,,,,,-2.6158426,29.0180758,node,9514019017,https://www.openstreetmap.org/node/9514019017,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/9562793092,Afia Organics,,restaurant,,+250 787 322 132,https://afiaorganics.business.site/,-1.9568382,30.1040264,node,9562793092,https://www.openstreetmap.org/node/9562793092,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/9580350890,Mountain View Apartments,,,,+250788912646,,-1.9260573,30.0541873,node,9580350890,https://www.openstreetmap.org/node/9580350890,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/9709032851,Urban Suit Hotel,,,,,,-1.9605215,30.1084046,node,9709032851,https://www.openstreetmap.org/node/9709032851,2026-10-03T12:22:23Z,hotel,,30,yes,Not recorded in OpenStreetMap
+node/9709035933,URBAN PARK,"Remera, Kigali",,,,,-1.9605321,30.1077041,node,9709035933,https://www.openstreetmap.org/node/9709035933,2026-10-03T12:22:23Z,hotel,,,yes,OpenStreetMap addr:city
+node/9782364644,Ku Kibuye Eco Lodge,Bwishyura,,,,www.kukibuyeEco-lodge.com,-2.0553001,29.3503926,node,9782364644,https://www.openstreetmap.org/node/9782364644,2026-10-03T12:22:23Z,motel,,8,yes,OpenStreetMap addr:city
+node/9838495689,El Vista Café,,cafe,,,,-1.9529412,30.0835214,node,9838495689,https://www.openstreetmap.org/node/9838495689,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+node/9969997223,Classic hotel,,,,,,-1.9688067,30.1005035,node,9969997223,https://www.openstreetmap.org/node/9969997223,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+node/9969997224,Great hotel Kiyovu,,,,,,-1.9587918,30.069605,node,9969997224,https://www.openstreetmap.org/node/9969997224,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+node/9969997225,Hotel Gorillas,,,,,,-1.9506185,30.0698062,node,9969997225,https://www.openstreetmap.org/node/9969997225,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+relation/13202536,Heaven Restaurant & Boutique Hotel,Kigali,,,,,-1.9468691,30.0650049,relation,13202536,https://www.openstreetmap.org/relation/13202536,2026-10-03T12:22:23Z,hotel,,,,OpenStreetMap addr:city
+relation/17417870,Fatima hotel,,,,,,-1.5004234,29.6332641,relation,17417870,https://www.openstreetmap.org/relation/17417870,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+relation/20675056,SALT of Akagera,,,,,https://www.saltresorts.com/en/rwanda/hotel/saltofakagera,-1.8744331,30.7150209,relation,20675056,https://www.openstreetmap.org/relation/20675056,2026-10-03T12:22:23Z,hotel,,,yes,Not recorded in OpenStreetMap
+relation/2636527,Serena Hotel,,,,,,-1.7044283,29.2602362,relation,2636527,https://www.openstreetmap.org/relation/2636527,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/1021793068,Resort Émeraude Kivu,,,,,,-2.4804544,28.8942063,way,1021793068,https://www.openstreetmap.org/way/1021793068,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+way/106084512,Senior Officers Mess,,restaurant,,,,-1.9569096,30.0869396,way,106084512,https://www.openstreetmap.org/way/106084512,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/106280233,Hôtel des Mille Collines,,,,,,-1.9470832,30.0619041,way,106280233,https://www.openstreetmap.org/way/106280233,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+way/1065042199,Gahanga Cricket Stadium's Coffee Shop,,cafe,coffee_shop,,,-2.0288638,30.1071791,way,1065042199,https://www.openstreetmap.org/way/1065042199,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/1068400526,Umusambi Village Café,,cafe,,,,-1.9840583,30.2095197,way,1068400526,https://www.openstreetmap.org/way/1068400526,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/1072266018,Home Free Hotel,,,,,,-1.9521755,30.0842049,way,1072266018,https://www.openstreetmap.org/way/1072266018,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/107543394,Khana Khazana Kiyovu,Kigali,restaurant,indian,+250788499600,https://www.khanakhazana.rw/,-1.9472653,30.0659717,way,107543394,https://www.openstreetmap.org/way/107543394,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+way/1084226664,Kultura,Kigali,restaurant,japanese;asian,,,-1.9281597,30.1098118,way,1084226664,https://www.openstreetmap.org/way/1084226664,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+way/1085107809,Five to Five Hotel,Kigali - Remera,,,,,-1.9552509,30.1102989,way,1085107809,https://www.openstreetmap.org/way/1085107809,2026-10-03T12:22:23Z,hotel,3,,wlan,OpenStreetMap addr:city
+way/1092610514,Inganji Steak House,,restaurant,steak_house,+250 791 174 831,,-1.9414274,30.1340497,way,1092610514,https://www.openstreetmap.org/way/1092610514,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/1107972116,Great apartment hotel,,,,+250 782 626 582,,-1.9620278,30.1242802,way,1107972116,https://www.openstreetmap.org/way/1107972116,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+way/1107995885,BURGER BROS,,restaurant,burger,0795288854,,-1.958891,30.1129542,way,1107995885,https://www.openstreetmap.org/way/1107995885,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/1108000483,Lambo,,cafe,pizza;coffee_shop;chinese;italian;asian;ice_cream;greek;barbecue,,https://lambobambo.org,-1.9654713,30.1028789,way,1108000483,https://www.openstreetmap.org/way/1108000483,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+way/1136979116,stamina chapter 2,,restaurant,,,,-1.9587715,30.1162588,way,1136979116,https://www.openstreetmap.org/way/1136979116,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/1137263089,Chinesse Restaurant,Kigali,restaurant,chinese,,,-1.9625996,30.1029359,way,1137263089,https://www.openstreetmap.org/way/1137263089,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+way/1137566823,La Paillotte,,restaurant,,,,-1.5076903,29.6432786,way,1137566823,https://www.openstreetmap.org/way/1137566823,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/1138404147,lambanana,,restaurant,chicken;burger;steak_house,05648545565,https://ftyrrdb5d.com,-1.9649537,30.1026811,way,1138404147,https://www.openstreetmap.org/way/1138404147,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/1144309719,Inzozi Africa B&B,,,,,https://inzoziafrica.com/,-1.9403357,30.0767245,way,1144309719,https://www.openstreetmap.org/way/1144309719,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+way/1148563159,Grand Legacy,,,,,https://grandlegacy.rw,-1.9605189,30.1127064,way,1148563159,https://www.openstreetmap.org/way/1148563159,2026-10-03T12:22:23Z,hotel,,,yes,Not recorded in OpenStreetMap
+way/1153206181,Il giardino verde,Kimonyi,cafe,caffè;gelateria,,,-1.5136537,29.6135067,way,1153206181,https://www.openstreetmap.org/way/1153206181,2026-10-03T12:22:23Z,,,,yes,OpenStreetMap addr:city
+way/1153206188,Da giuliet,Muhoza,restaurant,italian;chicken,,,-1.513677,29.6126144,way,1153206188,https://www.openstreetmap.org/way/1153206188,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+way/1153206212,dino,,restaurant,pizza,,,-1.5150237,29.6102329,way,1153206212,https://www.openstreetmap.org/way/1153206212,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/1159856686,Atelier du Vin,,restaurant,,,https://atelierduvinrwanda.com/,-1.9675524,30.0899182,way,1159856686,https://www.openstreetmap.org/way/1159856686,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/1161076901,Pedro's Coffee,,cafe,coffee_shop,,https://pedroscoffee.com/,-1.9579821,30.1610171,way,1161076901,https://www.openstreetmap.org/way/1161076901,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/1165347352,Qahwa House,,cafe,coffee_shop,,,-1.9717617,30.1026941,way,1165347352,https://www.openstreetmap.org/way/1165347352,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/116771491,Nobilis Appartments,,,,,,-1.9512103,30.0687735,way,116771491,https://www.openstreetmap.org/way/116771491,2026-10-03T12:22:23Z,motel,,,,Not recorded in OpenStreetMap
+way/1175915332,Park Inn,,,,,,-1.9515252,30.0706958,way,1175915332,https://www.openstreetmap.org/way/1175915332,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/119911737,Coffeeshop Company,,cafe,coffee_shop,,,-1.9508671,30.0595741,way,119911737,https://www.openstreetmap.org/way/119911737,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/1207042497,Sainte Famille Hotel,,,,+250 781 205 332;+250 784 180 076,https://saintefamillehotel.com/,-1.9441209,30.0638068,way,1207042497,https://www.openstreetmap.org/way/1207042497,2026-10-03T12:22:23Z,hotel,3,,,Not recorded in OpenStreetMap
+way/1242167474,Radisson Blu,,,,,,-1.9546703,30.0927555,way,1242167474,https://www.openstreetmap.org/way/1242167474,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/127095192,Switch,Kigali,restaurant,,,,-1.954375,30.0832052,way,127095192,https://www.openstreetmap.org/way/127095192,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+way/1306395176,Akagera Café,,restaurant,,,,-1.9677128,30.6116547,way,1306395176,https://www.openstreetmap.org/way/1306395176,2026-10-03T12:22:23Z,,,,wlan,Not recorded in OpenStreetMap
+way/137838061,Oxygen Restaurant & Bar,,,,,,-1.9416316,30.061587,way,137838061,https://www.openstreetmap.org/way/137838061,2026-10-03T12:22:23Z,motel,,,,Not recorded in OpenStreetMap
+way/173152817,Residence PRIMA 2000,,,,,,-1.945107,30.0889258,way,173152817,https://www.openstreetmap.org/way/173152817,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/173302627,Cerena motel,,,,,,-1.964407,30.1023745,way,173302627,https://www.openstreetmap.org/way/173302627,2026-10-03T12:22:23Z,motel,,,,Not recorded in OpenStreetMap
+way/173303222,Ugandan Restaurant,,restaurant,,,,-1.9636991,30.1082635,way,173303222,https://www.openstreetmap.org/way/173303222,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/173303448,Beijing Tangren Restaurant,,restaurant,,,,-1.9548509,30.1037556,way,173303448,https://www.openstreetmap.org/way/173303448,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/173306040,Hôtel Chez Lando,,,,,http://hotelchezlando.com,-1.959311,30.108313,way,173306040,https://www.openstreetmap.org/way/173306040,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/173307225,Nobleza Hotel,,,,,,-1.9990148,30.0952244,way,173307225,https://www.openstreetmap.org/way/173307225,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/173307319,Nobleza Hotel,,,,,,-1.9986769,30.0958979,way,173307319,https://www.openstreetmap.org/way/173307319,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/173307934,Nobleza Hotel,,,,,,-1.998811,30.095336,way,173307934,https://www.openstreetmap.org/way/173307934,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/173315613,GRACE HOTEL,,,,,,-1.9643249,30.0617374,way,173315613,https://www.openstreetmap.org/way/173315613,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/177859339,Gorillas Golf,,,,,,-1.9459809,30.1048873,way,177859339,https://www.openstreetmap.org/way/177859339,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/177860124,Afika Bite,Kigali,restaurant,,,,-1.9518508,30.081643,way,177860124,https://www.openstreetmap.org/way/177860124,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+way/177860134,Zenith Hotel,Kigali,,,,,-1.9522858,30.0822347,way,177860134,https://www.openstreetmap.org/way/177860134,2026-10-03T12:22:23Z,hotel,,,,OpenStreetMap addr:city
+way/177861740,Café Royal,Kigali,cafe,,,,-1.9490452,30.0795012,way,177861740,https://www.openstreetmap.org/way/177861740,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+way/177861751,Poivre Noir,,restaurant,,,,-1.9495837,30.0811358,way,177861751,https://www.openstreetmap.org/way/177861751,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/178760698,Hotel Malahide Paradis,,,,,,-1.7338695,29.2733354,way,178760698,https://www.openstreetmap.org/way/178760698,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/180716466,Legend Hotel,,,,,,-1.932193,30.0726091,way,180716466,https://www.openstreetmap.org/way/180716466,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/202379661,Okapi Hotel,,,,+250 252 571 667,http://www.okapihotelrwanda.com/,-1.9410746,30.0611574,way,202379661,https://www.openstreetmap.org/way/202379661,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+way/206600845,Park View Courts,,,,,,-1.9456615,30.1029731,way,206600845,https://www.openstreetmap.org/way/206600845,2026-10-03T12:22:23Z,hotel,,,yes,Not recorded in OpenStreetMap
+way/206841449,Luxury Hotel,,,,,,-1.9358765,30.1322417,way,206841449,https://www.openstreetmap.org/way/206841449,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/206841680,Auberge Bel Angle,,,,,,-1.9367196,30.1300665,way,206841680,https://www.openstreetmap.org/way/206841680,2026-10-03T12:22:23Z,motel,,,,Not recorded in OpenStreetMap
+way/206842140,Hôtel Le Printemps,,,,,,-1.9490467,30.1248444,way,206842140,https://www.openstreetmap.org/way/206842140,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/206842169,Freedom Hotel,,,,,,-1.9409319,30.1295217,way,206842169,https://www.openstreetmap.org/way/206842169,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/206842837,Sportsview Hotel,,,,,,-1.9544391,30.1124078,way,206842837,https://www.openstreetmap.org/way/206842837,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/206842851,Woodland Hotel,,,,,,-1.9425093,30.129742,way,206842851,https://www.openstreetmap.org/way/206842851,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/206842861,The Promise Motel,,,,,,-1.9485378,30.1255753,way,206842861,https://www.openstreetmap.org/way/206842861,2026-10-03T12:22:23Z,motel,,,,Not recorded in OpenStreetMap
+way/214204579,BWOK,,restaurant,,,,-1.9466951,30.0796515,way,214204579,https://www.openstreetmap.org/way/214204579,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/214206529,Manor Hotel,,,,,,-1.9324207,30.0974777,way,214206529,https://www.openstreetmap.org/way/214206529,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/225708077,Touristic Bar & Restaurant,Rwamagana,restaurant,,,,-1.9470288,30.4419174,way,225708077,https://www.openstreetmap.org/way/225708077,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+way/234998393,Isimbi,,,,+(250) 252572581,http://www.hotelisimbi.com/,-1.9493,30.0588281,way,234998393,https://www.openstreetmap.org/way/234998393,2026-10-03T12:22:23Z,hotel,4,,wlan,Not recorded in OpenStreetMap
+way/237255479,Cactus restaurant,,restaurant,regional,,,-2.5956337,29.7431439,way,237255479,https://www.openstreetmap.org/way/237255479,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/237255630,Huye Conference Center Ltd.,,,,,,-2.5945894,29.7471424,way,237255630,https://www.openstreetmap.org/way/237255630,2026-10-03T12:22:23Z,hotel,,,wlan,Not recorded in OpenStreetMap
+way/237256550,Four Steps (Le Petit Prince),,,,,,-2.5931143,29.7477741,way,237256550,https://www.openstreetmap.org/way/237256550,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/260588324,Virunga Lodge,,,,,https://volcanoessafaris.com/virunga-lodge-rwanda/,-1.446941,29.7413825,way,260588324,https://www.openstreetmap.org/way/260588324,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/261593754,Gorillas Lake,,,,,,-1.6993042,29.2552448,way,261593754,https://www.openstreetmap.org/way/261593754,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/262440403,Chez John,,restaurant,regional,,,-1.9574106,30.0699664,way,262440403,https://www.openstreetmap.org/way/262440403,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/304384503,O'Brian's Pub,,restaurant,irish,,,-1.9322581,30.0972992,way,304384503,https://www.openstreetmap.org/way/304384503,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/310024762,KFC,,fast_food,chicken,,https://kfc.co.rw/,-1.9597866,30.1174181,way,310024762,https://www.openstreetmap.org/way/310024762,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/331591939,Four Seasons Hotel,Kigali,,,,,-1.9230532,30.0933737,way,331591939,https://www.openstreetmap.org/way/331591939,2026-10-03T12:22:23Z,hotel,,,,OpenStreetMap addr:city
+way/333596941,Hotel Mont Huye,,,,,,-2.602225,29.7418138,way,333596941,https://www.openstreetmap.org/way/333596941,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/378033141,Macadamia Hotel,,,,,,-2.0014162,30.0954597,way,378033141,https://www.openstreetmap.org/way/378033141,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/382844160,Ecolodge,,,,,,-1.9201287,30.4950086,way,382844160,https://www.openstreetmap.org/way/382844160,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/443762063,Warehouse Cafeteria,,cafe,burger,,,-1.9553473,30.0535872,way,443762063,https://www.openstreetmap.org/way/443762063,2026-10-03T12:22:23Z,,,,no,Not recorded in OpenStreetMap
+way/444752981,Light House Hotel,,,,,https://www.lighthouserwanda.com/,-2.6199396,29.742414,way,444752981,https://www.openstreetmap.org/way/444752981,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/451419816,Kiyonza HQ Canteen,,restaurant,,,,-1.876821,30.7147244,way,451419816,https://www.openstreetmap.org/way/451419816,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/460774155,Picnic spot,,restaurant,,,,-1.5362666,30.7061245,way,460774155,https://www.openstreetmap.org/way/460774155,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/472384480,Mr Chips,,restaurant,,,,-1.9403488,30.1025899,way,472384480,https://www.openstreetmap.org/way/472384480,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/506281551,Happy Day Restaurent,,restaurant,,,,-2.6154894,29.7444689,way,506281551,https://www.openstreetmap.org/way/506281551,2026-10-03T12:22:23Z,,,,no,Not recorded in OpenStreetMap
+way/506281553,University Restaurent,,restaurant,,,,-2.6154576,29.7439935,way,506281553,https://www.openstreetmap.org/way/506281553,2026-10-03T12:22:23Z,,,,no,Not recorded in OpenStreetMap
+way/552176245,INES Restaurant,,restaurant,,,,-1.4986531,29.6122054,way,552176245,https://www.openstreetmap.org/way/552176245,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/56299636,Orange Courts Hotel,,,,,,-1.942667,30.086406,way,56299636,https://www.openstreetmap.org/way/56299636,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/565742213,Monmartse,,restaurant,korean_food,,,-1.9527818,30.103155,way,565742213,https://www.openstreetmap.org/way/565742213,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/565748854,Zuri,,restaurant,indian,,,-1.9504565,30.1028182,way,565748854,https://www.openstreetmap.org/way/565748854,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/565868022,Qiang Brother,,restaurant,chinese,,,-1.9308923,30.084103,way,565868022,https://www.openstreetmap.org/way/565868022,2026-10-03T12:22:23Z,,,,,Not recorded in OpenStreetMap
+way/589455708,Rufrabu,Ngororero,,,,,-1.8517667,29.6332697,way,589455708,https://www.openstreetmap.org/way/589455708,2026-10-03T12:22:23Z,hotel,,,,OpenStreetMap addr:city
+way/637667697,Hill View Hotel,Kigali,,,+250783462500,,-1.9454707,30.0637574,way,637667697,https://www.openstreetmap.org/way/637667697,2026-10-03T12:22:23Z,hotel,,,,OpenStreetMap addr:city
+way/637667768,Elikapeka,Kigali,restaurant,,+250783603567,,-1.9478511,30.0667866,way,637667768,https://www.openstreetmap.org/way/637667768,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+way/690555678,Cantine scolaire de Muhihi,Kisaro,restaurant,,,,-1.6315942,30.0589568,way,690555678,https://www.openstreetmap.org/way/690555678,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+way/779312818,Jangwe Lodge,Shyogwe,,,,,-2.1422395,29.7834691,way,779312818,https://www.openstreetmap.org/way/779312818,2026-10-03T12:22:23Z,hotel,,5,,OpenStreetMap addr:city
+way/781719533,Marriott,Kigali,,,+250 222 111 111,https://www.marriott.com/kglmc,-1.9536891,30.0623072,way,781719533,https://www.openstreetmap.org/way/781719533,2026-10-03T12:22:23Z,hotel,,,,OpenStreetMap addr:city
+way/847727069,Le Manoire 707,Kigali,restaurant,regional;chicken;kebab;barbecue,,,-1.9212968,30.0631701,way,847727069,https://www.openstreetmap.org/way/847727069,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+way/907125414,Kivu Lodge,,,,,,-2.1462669,29.2566605,way,907125414,https://www.openstreetmap.org/way/907125414,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/911019966,Executive suites,Kigali City,,,,http://www.executivesuiteskigali.com/,-1.9508105,30.0605398,way,911019966,https://www.openstreetmap.org/way/911019966,2026-10-03T12:22:23Z,hotel,,,,OpenStreetMap addr:city
+way/953257725,East Gate Hotel,,,,,,-2.1379735,30.5557118,way,953257725,https://www.openstreetmap.org/way/953257725,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/957585345,Four Points by Sheraton Kigali,,,,,,-1.9555754,30.0616581,way,957585345,https://www.openstreetmap.org/way/957585345,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap
+way/980897065,Migano,Kigali,restaurant,,,,-1.9515487,30.0834151,way,980897065,https://www.openstreetmap.org/way/980897065,2026-10-03T12:22:23Z,,,,,OpenStreetMap addr:city
+way/982301778,The Nest,,,,,,-1.9535058,30.0824005,way,982301778,https://www.openstreetmap.org/way/982301778,2026-10-03T12:22:23Z,hotel,,,,Not recorded in OpenStreetMap

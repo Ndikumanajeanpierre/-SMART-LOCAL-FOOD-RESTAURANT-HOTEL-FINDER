@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
+      font: 14px sans-serif; margin: 0; color: #263238;
+    }
+    button {
+      border: 0; border-radius: 8px; min-height: 44px; max-width: 100%;
+      padding: 10px 14px; background: #137c68; color: white;
+      font-size: 14px; cursor: pointer;
+    }
+    button:disabled { opacity: .65; cursor: wait; }
+    #status { flex: 1 1 160px; min-width: 0; overflow-wrap: anywhere; }
+  </style>
+</head>
+<body>
+  <button id="locate" type="button">Use my current location</button>
+  <span id="status" role="status"></span>
+  <script>
+    const button = document.getElementById("locate");
+    const status = document.getElementById("status");
+
+    function send(type, value) {
+      window.parent.postMessage({
+        isStreamlitMessage: true,
+        type,
+        ...value
+      }, "*");
+    }
+
+    function setValue(value) {
+      send("streamlit:setComponentValue", {value});
+    }
+
+    function setFrameHeight() {
+      send("streamlit:setFrameHeight", {
+        height: document.documentElement.scrollHeight
+      });
+    }
+
+    new ResizeObserver(setFrameHeight).observe(document.body);
+
+    button.addEventListener("click", () => {
+      if (!navigator.geolocation) {
+        const error = "This browser does not support location access.";
+        status.textContent = error;
+        setValue({status: "error", message: error});
+        return;
+      }
+
+      button.disabled = true;
+      status.textContent = "Requesting browser permission…";
+      navigator.geolocation.getCurrentPosition(
+        (position) => {
+          const result = {
+            status: "success",
+            latitude: position.coords.latitude,
+            longitude: position.coords.longitude,
+            accuracy: position.coords.accuracy
+          };
+          status.textContent = "Current location found.";
+          setValue(result);
+          button.disabled = false;
+        },
+        (error) => {
+          const message = error.code === error.PERMISSION_DENIED
+            ? "Location permission was denied. Allow location access in your browser to search nearby."
+            : error.code === error.POSITION_UNAVAILABLE
+              ? "Your current location is unavailable. Try again or choose a known Rwanda location."
+              : "Location request timed out. Try again or choose a known Rwanda location.";
+          status.textContent = message;
+          setValue({status: "error", message});
+          button.disabled = false;
+        },
+        {enableHighAccuracy: true, timeout: 15000, maximumAge: 60000}
+      );
+    });
+
+    window.addEventListener("message", (event) => {
+      if (event.data.type === "streamlit:render") {
+        send("streamlit:componentReady", {apiVersion: 1});
+        setFrameHeight();
+      }
+    });
+
+    send("streamlit:componentReady", {apiVersion: 1});
+    setFrameHeight();
+  </script>
+</body>
+</html>

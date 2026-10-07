@@ -1,0 +1,10 @@
+{
+  "retrieval": {
+    "method": "tfidf",
+    "ngram_range": [1, 2],
+    "top_k": 5,
+    "min_similarity": 0.10
+  },
+  "data_path": "data/restaurants.csv",
+  "locations_path": "data/locations.csv"
+}
